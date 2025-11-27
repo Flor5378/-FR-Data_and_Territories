@@ -1,0 +1,544 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.37843,
+          47.750795
+        ]
+      },
+      "properties": {
+        "dates": "28/07-01/08",
+        "ville": "Lorient",
+        "code": 56100,
+        "niveau": "Tous niveaux",
+        "structure": "Roudour",
+        "tel": "02 98 99 75 81",
+        "courriel": "degemer@roudour.bzh",
+        "internet": "www.roudour.bzh",
+        "result_label": "Lorient",
+        "result_score": 0.95,
+        "result_type": "municipality",
+        "result_id": 56121,
+        "result_housenumber": null,
+        "result_name": "Lorient",
+        "result_street": null,
+        "result_postcode": 56100,
+        "result_city": "Lorient",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56121,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "Q3ODY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.496254,
+          48.406567
+        ]
+      },
+      "properties": {
+        "dates": "04-08/08",
+        "ville": "Brest",
+        "code": 29200,
+        "niveau": "Tous niveaux",
+        "structure": "Roudour",
+        "tel": "02 98 99 75 81",
+        "courriel": "degemer@roudour.bzh",
+        "internet": "www.roudour.bzh",
+        "latitude": 48.406567,
+        "longitude": -4.496254,
+        "result_label": "Brest",
+        "result_score": 0.96,
+        "result_type": "municipality",
+        "result_id": 29019,
+        "result_housenumber": null,
+        "result_name": "Brest",
+        "result_street": null,
+        "result_postcode": 29200,
+        "result_city": "Brest",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29019,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "AwMjQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.27075,
+          47.807325
+        ]
+      },
+      "properties": {
+        "ville": "Hennebont",
+        "code": 56700,
+        "niveau": "Tous niveaux",
+        "structure": "Roudour",
+        "tel": "02 98 99 75 81",
+        "courriel": "degemer@roudour.bzh",
+        "internet": "www.roudour.bzh",
+        "result_label": "Hennebont",
+        "result_score": 0.95,
+        "result_type": "municipality",
+        "result_id": 56083,
+        "result_housenumber": null,
+        "result_name": "Hennebont",
+        "result_street": null,
+        "result_postcode": 56700,
+        "result_city": "Hennebont",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56083,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "dates": "07-11/07"
+      },
+      "id": "gwMTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.076221,
+          48.196744
+        ]
+      },
+      "properties": {
+        "deiziadou": "Adalek an 11 betek ar 17 a viz Gouere 2021",
+        "dates": "Du 11 au 17 juillet 2021",
+        "kumun": "Kastellin",
+        "ville": "Châteaulin",
+        "chomlech": "Park Bihan",
+        "adresse": "Parc Bihan",
+        "kod": 29150,
+        "code": 29150,
+        "live": "Soubidigezh",
+        "niveau": "Immersion",
+        "framm": "KEAV",
+        "structure": "KEAV",
+        "pellgomz": "02 98 95 59 31",
+        "tel": "3 98 95 59 31",
+        "postel": "keav@keav.bzh",
+        "courriel": "keav@keav.bzh",
+        "kenrouedad": "http://www.keav.bzh",
+        "internet": "http://www.keav.bzh",
+        "latitude": 48.196744,
+        "longitude": -4.076221,
+        "result_label": "Châteaulin",
+        "result_score": 0.94,
+        "result_type": "municipality",
+        "result_id": 29026,
+        "result_housenumber": null,
+        "result_name": "Châteaulin",
+        "result_street": null,
+        "result_postcode": 29150,
+        "result_city": "Châteaulin",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29026,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "gxNDQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.075928,
+          48.196303
+        ]
+      },
+      "properties": {
+        "result_label": "Châteaulin",
+        "result_score": 0.94,
+        "result_type": "municipality",
+        "result_id": 29026,
+        "result_housenumber": null,
+        "result_name": "Châteaulin",
+        "result_street": null,
+        "result_postcode": 29150,
+        "result_city": "Châteaulin",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29026,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "dates": "06-12/07 + 13-19/07",
+        "ville": "Châteaulin",
+        "code": "29150",
+        "niveau": "Tous niveaux",
+        "structure": "KEAV",
+        "tel": "02 98 95 59 31",
+        "courriel": "keav@keav.bzh",
+        "internet": "www.keav.bzh"
+      },
+      "id": "AyMTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -4.100647,
+          47.999112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "dates": "07-11/07 + 18-22/08",
+        "ville": "Quimper",
+        "code": 29000,
+        "niveau": "Tous niveaux",
+        "structure": "Roudour",
+        "tel": "02 98 99 75 81",
+        "courriel": "degemer@roudour.bzh",
+        "internet": "www.roudour.bzh",
+        "result_label": "Quimper",
+        "result_score": 0.95,
+        "result_type": "municipality",
+        "result_id": 29232,
+        "result_housenumber": null,
+        "result_name": "Quimper",
+        "result_street": null,
+        "result_postcode": 29000,
+        "result_city": "Quimper",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29232,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "E3NzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.314907,
+          48.5792
+        ]
+      },
+      "properties": {
+        "ville": "Lesneven",
+        "code": 29260,
+        "niveau": "Tous niveaux",
+        "structure": "Roudour",
+        "tel": "02 98 99 75 81",
+        "courriel": "degemer@roudour.bzh",
+        "internet": "www.roudour.bzh",
+        "result_label": "Lesneven",
+        "result_score": 0.94,
+        "result_type": "municipality",
+        "result_id": 29124,
+        "result_housenumber": null,
+        "result_name": "Lesneven",
+        "result_street": null,
+        "result_postcode": 29260,
+        "result_city": "Lesneven",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29124,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "dates": "18-22/08"
+      },
+      "id": "Y0ODQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.615791,
+          48.667016
+        ]
+      },
+      "properties": {
+        "dates": "11-14/08",
+        "ville": "Plestin-Les-Grèves",
+        "code": 22310,
+        "niveau": "Tous niveaux",
+        "structure": "Roudour",
+        "tel": "02 98 99 75 81",
+        "courriel": "degemer@roudour.bzh",
+        "internet": "www.roudour.bzh",
+        "result_label": "Plestin-les-Grèves",
+        "result_score": 0.94,
+        "result_type": "municipality",
+        "result_id": 22194,
+        "result_housenumber": null,
+        "result_name": "Plestin-les-Grèves",
+        "result_street": null,
+        "result_postcode": 22310,
+        "result_city": "Plestin-les-Grèves",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22194,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "YwNTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.68365,
+          48.110899
+        ]
+      },
+      "properties": {
+        "dates": "21-25/07",
+        "ville": "Rennes",
+        "code": 35000,
+        "niveau": "Tous niveaux",
+        "structure": "Skol an Emsav",
+        "tel": "02 99 38 75 83",
+        "courriel": "degemer@skolanemsav.bzh",
+        "internet": "www.skolanemsav.bzh",
+        "result_label": "Rennes",
+        "result_score": 0.96,
+        "result_type": "municipality",
+        "result_id": 35238,
+        "result_housenumber": null,
+        "result_name": "Rennes",
+        "result_street": null,
+        "result_postcode": 35000,
+        "result_city": "Rennes",
+        "result_context": "35, Ille-et-Vilaine, Bretagne",
+        "result_citycode": 35238,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "QyODA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.625284,
+          47.227082
+        ]
+      },
+      "properties": {
+        "code": 29800,
+        "niveau": "Tous niveaux",
+        "structure": "Skol an Emsav et Kentelioù an Noz",
+        "tel": "02 99 38 75 83",
+        "courriel": "degemer@skolanemsav.bzh",
+        "internet": "www.skolanemsav.bzh ou breton-nantes.bzh/index.php/stage-dete/",
+        "result_label": "Saint-Herblain",
+        "result_score": 0.78,
+        "result_type": "municipality",
+        "result_id": 44162,
+        "result_housenumber": null,
+        "result_name": "Saint-Herblain",
+        "result_street": null,
+        "result_postcode": 44800,
+        "result_city": "Saint-Herblain",
+        "result_context": "44, Loire-Atlantique, Pays de la Loire",
+        "result_citycode": 44162,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "dates": "07-11/07",
+        "ville": "Saint-Herblain"
+      },
+      "id": "MxMzk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.573958,
+          48.277352
+        ]
+      },
+      "properties": {
+        "adresse": "Kerampuilh",
+        "code": "29270",
+        "courriel": "degemer@roudour.bzh",
+        "tel": "02 98 99 75 81",
+        "ville": "Carhaix",
+        "dates": "15-19/07 + 12-16/08",
+        "internet": "www.roudour.bzh",
+        "result_city": "Carhaix",
+        "result_citycode": "49270",
+        "result_context": "29, Finistère, Bretagne",
+        "result_id": "29270",
+        "result_label": "Carhaix",
+        "result_name": "Carhaix",
+        "result_postcode": "29270",
+        "structure": "Roudour",
+        "niveau": "Tous niveaux"
+      },
+      "id": "c2ODc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.457947,
+          47.637634
+        ]
+      },
+      "properties": {
+        "dates": "Dates à venir",
+        "ville": "Ile de Groix",
+        "niveau": "Tous niveaux",
+        "structure": "UDB",
+        "tel": "06 59 32 27 21 / 07 87 36 41 66",
+        "courriel": "permanence@udb.bzh"
+      },
+      "id": "U1NDg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.335136,
+          48.090693
+        ]
+      },
+      "properties": {
+        "dates": "25-29/08",
+        "ville": "Douarnenez",
+        "tel": "02 98 99 75 81",
+        "structure": "Roudour",
+        "courriel": "degemer@roudour.bzh",
+        "internet": "www.roudour.bzh",
+        "niveau": "Tous niveaux",
+        "code": "29100"
+      },
+      "id": "MyMjU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.949585,
+          48.291417
+        ]
+      },
+      "properties": {
+        "dates": "17-22/08",
+        "ville": "Brasparts",
+        "tel": "02 98 62 17 20",
+        "structure": "Ar Falz",
+        "courriel": "arfalz@yahoo.fr",
+        "internet": "www.skolvreizh.com/stage-de-breton/",
+        "code": "29190",
+        "niveau": "Tous niveaux"
+      },
+      "id": "gxOTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -5.083923,
+          48.454709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "code": "29242",
+        "courriel": "contact@stumdi.bzh",
+        "dates": "07-11/07",
+        "internet": "stumdi.bzh",
+        "niveau": "Débutants",
+        "tel": "02 98 21 39 94",
+        "ville": "Ouessant",
+        "structure": "Stumdi"
+      },
+      "id": "kyMzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.749084,
+          48.359443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "code": "29690",
+        "ville": "Huelgoat",
+        "tel": "02 98 99 75 81",
+        "internet": "www.roudour.bzh",
+        "dates": "11-14/08",
+        "courriel": "degemer@roudour.bzh",
+        "niveau": "Tous niveaux",
+        "structure": "Roudour"
+      },
+      "id": "kyMTQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.962875,
+          48.061102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "code": "56300",
+        "courriel": "degemer@roudour.bzh",
+        "dates": "21-25/07",
+        "internet": "www.roudour.bzh",
+        "niveau": "Tous niveaux",
+        "structure": "Roudour",
+        "tel": "02 98 99 75 81",
+        "ville": "Pontivy"
+      },
+      "id": "UyNzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.995834,
+          47.715768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "code": "56400",
+        "courriel": "contact@stumdi.bzh",
+        "dates": "09-11/07",
+        "internet": "stumdi.bzh",
+        "niveau": "Niveau B1 minimum",
+        "structure": "Stumdi",
+        "tel": "02 98 21 39 94",
+        "ville": "Brech",
+        "adresse": "Thème : Loened, plant ha brezhoneg"
+      },
+      "id": "kzMDg"
+    }
+  ]
+}

@@ -1,0 +1,5702 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.76111,
+          48.51515
+        ]
+      },
+      "properties": {
+        "rummad": "Bodad komz",
+        "organisme": "Office des retraités Briochins",
+        "code": 22000,
+        "ville": "Saint-Brieuc",
+        "adresse": "6 bis rue Marechal Foch",
+        "courriel": "orb22@wanadoo.fr",
+        "telephone": "02 96 61 95 61",
+        "latitude": 48.51515,
+        "longitude": -2.76111,
+        "result_label": "6 b Rue Maréchal Foch 22000 Saint-Brieuc",
+        "result_score": 0.83,
+        "result_type": "housenumber",
+        "result_id": "22278_3060_00006_b",
+        "result_housenumber": "6 b",
+        "result_name": "Rue Maréchal Foch",
+        "result_street": null,
+        "result_postcode": 22000,
+        "result_city": "Saint-Brieuc",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22278,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "commune": "Saint-Brieuc",
+        "internet": "https://www.orb22.fr/"
+      },
+      "id": "MxMjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -4.181671,
+          48.072574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "rummad": "Bodad komz",
+        "aozer": "Kuzul-Gevellan Plogoneg-Llandysul ",
+        "organisme": "Comite de jumellage Plogoneg- Llandysul ",
+        "Kevread": "_",
+        "kod": 29180,
+        "code": 29180,
+        "kumun": "Plogoneg",
+        "ville": "Plogonnec",
+        "lech": "Oaled ar gumun",
+        "chomlech": "2 straed ar Skoliou",
+        "lieu": "Foyer communal",
+        "adresse": "2 rue des Ecoles",
+        "postel": "_",
+        "courriel": "_",
+        "pellgomz": "02 98 91 89 32",
+        "telephone": "02 98 91 89 32",
+        "kenrouedad": "_",
+        "internet": "_",
+        "den e karg": "_",
+        "latitude": 48.077168,
+        "longitude": -4.194807,
+        "result_label": "Rue des Ecoles 29180 Plogonnec",
+        "result_score": 0.61,
+        "result_type": "street",
+        "result_id": "29169_0200",
+        "result_housenumber": null,
+        "result_name": "Rue des Ecoles",
+        "result_street": null,
+        "result_postcode": 29180,
+        "result_city": "Plogonnec",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29169,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "A5NDE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.565031,
+          47.20719
+        ]
+      },
+      "properties": {
+        "rummad": "Bodad komz",
+        "aozer": "Skol-veur dibaouez Naoned",
+        "organisme": "Universite permanente Nantes",
+        "Kevread": "_",
+        "kod": 44000,
+        "code": 44000,
+        "kumun": "Naoned",
+        "ville": "Nantes",
+        "lech": "Atalierou ha chanteriou Naoned",
+        "chomlech": "2 boulouard Leon Bureau",
+        "lieu": "Ateliers et Chantiers de Nantes",
+        "adresse": "2 boulevard Leon Bureau",
+        "postel": " armandtosser@sfr.fr",
+        "courriel": " armandtosser@sfr.fr",
+        "pellgomz": "02 40 04 45 51",
+        "telephone": "02 40 04 45 51",
+        "kenrouedad": "univ-perm@univ-nantes.fr",
+        "internet": "univ-perm@univ-nantes.fr",
+        "den e karg": "Armand Tosser",
+        "latitude": 47.20719,
+        "longitude": -1.565031,
+        "result_label": "2 Boulevard Léon Bureau 44200 Nantes",
+        "result_score": 0.49,
+        "result_type": "housenumber",
+        "result_id": "44109_4904_00002",
+        "result_housenumber": "2",
+        "result_name": "Boulevard Léon Bureau",
+        "result_street": null,
+        "result_postcode": 44200,
+        "result_city": "Nantes",
+        "result_context": "44, Loire-Atlantique, Pays de la Loire",
+        "result_citycode": 44109,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "ExODg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.995161,
+          48.350488
+        ]
+      },
+      "properties": {
+        "organisme": "Fest-noz ar c'harter",
+        "code": "29190",
+        "commune": "Saint-Rivoal",
+        "lieu": "Salle de l'école",
+        "courriel": "annaig.kere@orange.fr",
+        "telephone": "06 27 80 04 76",
+        "internet": "-",
+        "ville": "Saint-Rivoal",
+        "adresse": "Salle de l'école"
+      },
+      "id": "M0MDk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.573702,
+          48.591592
+        ]
+      },
+      "properties": {
+        "organisme": "Echanges et savoirs",
+        "code": 29870,
+        "adresse": "_",
+        "courriel": "information@echanges-et-savoirs-landeda.fr",
+        "latitude": 48.591592,
+        "longitude": -4.573702,
+        "result_label": "Landéda",
+        "result_score": 0.81,
+        "result_type": "municipality",
+        "result_id": "29101",
+        "result_housenumber": null,
+        "result_name": "Landéda",
+        "result_street": null,
+        "result_postcode": 29870,
+        "result_city": "Landéda",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29101,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "ville": "Landéda",
+        "lieu": "_",
+        "telephone": "06 89 82 41 42",
+        "internet": "www.echanges-et-savoirs-landeda.fr"
+      },
+      "id": "Q2ODk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.999997,
+          47.84728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "adresse": "Gare de Guiscriff (causeries)",
+        "organisme": "Ar Marc'h du",
+        "code": "56560",
+        "commune": "Guiscriff",
+        "courriel": "armarchdu.guiscriff@orange.fr",
+        "telephone": "02 97 34 15 80"
+      },
+      "id": "c1NDc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.990556,
+          48.043517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "code": "56300",
+        "courriel": "cybercommune.lesourn@orange.fr",
+        "telephone": "02 97 27 81 96",
+        "ville": "LE SOURN",
+        "adresse": "Médiathèque En faim de contes",
+        "organisme": "Ti ar vro Bro Pondi",
+        "internet": "1er mardi du mois, 18h"
+      },
+      "id": "Q1MDE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.020039,
+          47.875023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "adresse": "Médiathèque Le Quatro",
+        "code": "56150",
+        "courriel": "mediatheque@mairie-baud.fr",
+        "internet": "1 samedi par mois",
+        "organisme": "Ti ar Vro Bro Pondi",
+        "ville": "BAUD",
+        "telephone": "02 97 79 22 06"
+      },
+      "id": "Q5NTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.111126,
+          47.980026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "adresse": "Médiathèque",
+        "code": "56310",
+        "courriel": "mediatheque@melrand.fr",
+        "internet": "1 samedi par mois",
+        "ville": "MELRAND",
+        "telephone": "02 97 28 88 09",
+        "organisme": "Ti ar Vro Bro Pondi"
+      },
+      "id": "c2NTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.968197,
+          48.06549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "adresse": "Espace Kenere",
+        "code": "56300",
+        "courriel": "mediatheque.kenere@ville-pontivy.fr",
+        "internet": "1 vendredi ou samedi par mois",
+        "organisme": "Ti ar Vro Bro Pondi",
+        "ville": "PONTIVY",
+        "telephone": "02 97 39 00 61"
+      },
+      "id": "IzOTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.549099,
+          47.870114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "code": "29300",
+        "ville": "Quimperlé",
+        "adresse": "Médiathèque, 2x par mois",
+        "courriel": "regineguillemot@hotmail.com"
+      },
+      "id": "AppLM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.329066,
+          47.234267
+        ]
+      },
+      "properties": {
+        "organisme": "Kentelioù an Noz",
+        "code": 44430,
+        "commune": "Le Loroux-Bottereau",
+        "adresse": "Centre de la Tannerie",
+        "courriel": "kenteliouannoz@gmail.com",
+        "latitude": 47.234267,
+        "longitude": -1.329066,
+        "result_label": "Le Loroux-Bottereau",
+        "result_score": 0.77,
+        "result_type": "municipality",
+        "result_id": "44084",
+        "result_housenumber": null,
+        "result_name": "Le Loroux-Bottereau",
+        "result_street": null,
+        "result_postcode": 44430,
+        "result_city": "Le Loroux-Bottereau",
+        "result_context": "44, Loire-Atlantique, Pays de la Loire",
+        "result_citycode": 44084,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "ville": "Le Loroux-Bottereau",
+        "telephone": "02 40 20 39 74",
+        "internet": "www.breton-nantes.bzh"
+      },
+      "id": "U4MjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.107071,
+          48.840712
+        ]
+      },
+      "properties": {
+        "code": "22610",
+        "commune": "Lanmodez",
+        "courriel": "arzul.py@orange.fr / le-relais-de-lanmodez@orange.fr",
+        "organisme": "Le Relais de Lanmodez",
+        "tel": "06 72 31 17 59",
+        "site": "facebook.com/relaisdelanmodez/",
+        "ville": "Lanmodez",
+        "adresse": "5 rue de la Mairie"
+      },
+      "id": "k2ODU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.138957,
+          48.842096
+        ]
+      },
+      "properties": {
+        "code": "22610",
+        "commune": "Pleubian",
+        "courriel": "arzul.py@orange.fr / le-relais-de-lanmodez@orange.fr",
+        "organisme": "Le Relais de Lanmodez",
+        "tel": "06 72 31 17 59",
+        "site": "facebook.com/relaisdelanmodez/",
+        "ville": "Pleubian"
+      },
+      "id": "I1Nzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -4.46443,
+          48.452418
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "organisme": "Médiathèque",
+        "code": "29850",
+        "ville": "Gouesnou",
+        "adresse": "5 venelle des Lilas",
+        "courriel": "mediatheque@mairie-gouesnou.fr",
+        "telephone": "02 98 37 37 82"
+      },
+      "id": "4rDkn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.538456,
+          48.79942
+        ]
+      },
+      "properties": {
+        "organisme": "Telenn",
+        "code": 22960,
+        "commune": "Plédran",
+        "lieu": "Maison des associations ",
+        "adresse": "4 rue Félix Le Dantec",
+        "courriel": "contact@tiarvro-santbrieg.bzh",
+        "tel": "02 96 77 31 91",
+        "site": "www.tiarvro-santbrieg.bzh",
+        "latitude": 48.79942,
+        "longitude": -3.538456,
+        "result_label": "4 Rue Félix le Dantec 22560 Pleumeur-Bodou",
+        "result_score": 0.65,
+        "result_type": "housenumber",
+        "result_id": "22198_0285_00004",
+        "result_name": "Rue Félix le Dantec",
+        "result_street": null,
+        "result_postcode": 22560,
+        "result_city": "Pleumeur-Bodou",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22198,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "M5NDU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.266972,
+          48.06301
+        ]
+      },
+      "properties": {
+        "aozer": "Hent ar furnez",
+        "organisme": "Hent ar furnez",
+        "kod": 35370,
+        "code": 35370,
+        "kumun": "Gwitreg",
+        "commune": "Vitré",
+        "lech": "_",
+        "lieu": "_",
+        "chom": "_",
+        "adresse": "_",
+        "postel": "hentarfurnez35@gmail.com",
+        "courriel": "hentarfurnez35@gmail.com",
+        "pgz": "06 84 47 04 20",
+        "tel": "06 84 47 04 20",
+        "kenrouedad": "_",
+        "site": "_",
+        "latitude": 48.06301,
+        "longitude": -1.266972,
+        "result_label": "Rue de Vitré 35370 Torcé",
+        "result_score": 0.52,
+        "result_type": "street",
+        "result_id": "35338_0032",
+        "result_housenumber": null,
+        "result_name": "Rue de Vitré",
+        "result_street": null,
+        "result_postcode": 35370,
+        "result_city": "Torcé",
+        "result_context": "35, Ille-et-Vilaine, Bretagne",
+        "result_citycode": 35338,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "UwNzg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.378405,
+          47.755823
+        ]
+      },
+      "properties": {
+        "organisme": "Diwan an Oriant",
+        "code": 56100,
+        "commune": "Lorient",
+        "lieu": "_",
+        "adresse": "1 rue Ferdinand Buisson",
+        "courriel": "klinedubois@hotmail.com",
+        "tel": "02 97 87 83 85 / 06 51 87 56 44",
+        "site": "_",
+        "latitude": 47.755823,
+        "longitude": -3.378405,
+        "result_label": "1 Rue Ferdinand Buisson 56100 Lorient",
+        "result_score": 0.96,
+        "result_type": "housenumber",
+        "result_id": "56121_2030_00001",
+        "result_housenumber": "1",
+        "result_name": "Rue Ferdinand Buisson",
+        "result_street": null,
+        "result_postcode": 56100,
+        "result_city": "Lorient",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56121,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "Y4MjI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.149643,
+          48.560704
+        ]
+      },
+      "properties": {
+        "organisme": "Ti ar Vro Gwengamp",
+        "code": 22200,
+        "commune": "Guingamp",
+        "lieu": "Ti ar Vro Gwengamp",
+        "adresse": "3 place du Champ au Roy",
+        "courriel": "degemer@tiarvro-gwengamp.bzh",
+        "tel": "02 96 44 27 88",
+        "site": "tiarvro-gwengamp.bzh",
+        "latitude": 48.561792,
+        "longitude": -3.148743,
+        "result_label": "3 Place du Champ au Roy 22200 Guingamp",
+        "result_score": 0.96,
+        "result_type": "housenumber",
+        "result_id": "22070_0150_00003",
+        "result_name": "Place du Champ au Roy",
+        "result_street": null,
+        "result_postcode": 22200,
+        "result_city": "Guingamp",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22070,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "E4NjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.072164,
+          48.771667
+        ]
+      },
+      "properties": {
+        "organisme": "Kreizenn Añjela Duval",
+        "code": 22500,
+        "commune": "Paimpol",
+        "lieu": "Centre Anjela Duval",
+        "adresse": "2 chemin de Kergicquel, Plounez",
+        "courriel": "yvettejc22@orange.fr",
+        "tel": "02 96 49 80 55",
+        "latitude": 48.771667,
+        "longitude": -3.072164,
+        "result_label": "2 Chemin de Kergicquel 22500 Paimpol",
+        "result_score": 0.79,
+        "result_type": "housenumber",
+        "result_id": "22162_0751_00002",
+        "result_name": "Chemin de Kergicquel",
+        "result_street": null,
+        "result_postcode": 22500,
+        "result_city": "Paimpol",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22162,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "site": "www.tiarvro22.bzh"
+      },
+      "id": "cyMTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.793709,
+          47.965902
+        ]
+      },
+      "properties": {
+        "organisme": "Dorn ha Dorn",
+        "code": 35580,
+        "commune": "Guichen",
+        "lieu": "Maison des Associations",
+        "adresse": "43 rue de Fagues",
+        "courriel": "pierresauvetre57@gmail.com",
+        "tel": "06 74 54 40 34",
+        "latitude": 47.965902,
+        "longitude": -1.793709,
+        "result_label": "43 Rue de Fagues 35580 Guichen",
+        "result_score": 0.96,
+        "result_type": "housenumber",
+        "result_id": "35126_0040_00043",
+        "result_name": "Rue de Fagues",
+        "result_street": null,
+        "result_postcode": 35580,
+        "result_city": "Guichen",
+        "result_context": "35, Ille-et-Vilaine, Bretagne",
+        "result_citycode": 35126,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "cxMjU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.78735,
+          48.092718
+        ]
+      },
+      "properties": {
+        "organisme": "Avant 2 du Rheu",
+        "code": 35650,
+        "commune": "Rheu",
+        "adresse": "_",
+        "courriel": "avant2durheu@gmx.fr",
+        "latitude": 48.092718,
+        "longitude": -1.78735,
+        "result_label": "Le Rheu",
+        "result_score": 0.62,
+        "result_type": "municipality",
+        "result_id": "35240",
+        "result_housenumber": null,
+        "result_name": "Le Rheu",
+        "result_street": null,
+        "result_postcode": 35650,
+        "result_city": "Le Rheu",
+        "result_context": "35, Ille-et-Vilaine, Bretagne",
+        "result_citycode": 35240,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "lieu": "Centre culturel Agora",
+        "tel": "07 68 37 35 64",
+        "site": "www.facebook.com/avantdeuxdurheu"
+      },
+      "id": "cyNjg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.668803,
+          47.200565
+        ]
+      },
+      "properties": {
+        "organisme": "Kentelioù an noz",
+        "code": 44610,
+        "commune": "Indre",
+        "lieu": "Ecole de musique",
+        "adresse": "9 rue de la Gare",
+        "courriel": "kenteliouannoz@gmail.com",
+        "tel": "02 40 20 39 74",
+        "site": "www.breton-nantes.bzh",
+        "latitude": 47.200565,
+        "longitude": -1.668803,
+        "result_label": "9 Rue de la Gare 44610 Indre",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "44074_0569_00009",
+        "result_name": "Rue de la Gare",
+        "result_street": null,
+        "result_postcode": 44610,
+        "result_city": "Indre",
+        "result_context": "44, Loire-Atlantique, Pays de la Loire",
+        "result_citycode": 44074,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "I5MTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.37276,
+          47.289915
+        ]
+      },
+      "properties": {
+        "organisme": "Cercle celtique Ar Vro Wenn",
+        "code": 44500,
+        "commune": "La Baule-Escoublac",
+        "adresse": "1 avenue du Bois Robin",
+        "courriel": "bernard.baltas@orange.fr",
+        "latitude": 47.289915,
+        "longitude": -2.37276,
+        "result_label": "15 Avenue Guy de la Morandais 44500 La Baule-Escoublac",
+        "result_score": 0.92,
+        "result_type": "housenumber",
+        "result_id": "44055_smyvaz_00015",
+        "result_name": "Avenue Guy de la Morandais",
+        "result_street": null,
+        "result_postcode": 44500,
+        "result_city": "La Baule-Escoublac",
+        "result_context": "44, Loire-Atlantique, Pays de la Loire",
+        "result_citycode": 44055,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "site": "cercleceltiquelabaule.bzh/"
+      },
+      "id": "Y4Nzk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.53538,
+          47.219408
+        ]
+      },
+      "properties": {
+        "organisme": "Kentelioù an Noz",
+        "code": 44000,
+        "commune": "Nantes",
+        "lieu": "La Manufacture ",
+        "adresse": "10 bis boulevard de Stalingrad",
+        "courriel": "kenteliouannoz@gmail.com",
+        "tel": "02 40 20 39 74",
+        "site": "www.breton-nantes.bzh",
+        "latitude": 47.219408,
+        "longitude": -1.53538,
+        "result_label": "10bis Boulevard de Stalingrad 44000 Nantes",
+        "result_score": 0.91,
+        "result_type": "housenumber",
+        "result_id": "44109_7964_00010_bis",
+        "result_name": "Boulevard de Stalingrad",
+        "result_street": null,
+        "result_postcode": 44000,
+        "result_city": "Nantes",
+        "result_context": "44, Loire-Atlantique, Pays de la Loire",
+        "result_citycode": 44109,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "MxNjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.559124,
+          47.219549
+        ]
+      },
+      "properties": {
+        "organisme": "Kentelioù an Noz",
+        "code": 44000,
+        "commune": "Nantes",
+        "lieu": "Pôle associatif Désiré Colombe",
+        "adresse": "8 rue Arsène Leloup",
+        "courriel": "kenteliouannoz@gmail.com",
+        "tel": "02 40 20 39 74",
+        "site": "www.breton-nantes.bzh",
+        "latitude": 47.219549,
+        "longitude": -1.559124,
+        "result_label": "Rue Léon Jamin 44000 Nantes",
+        "result_score": 0.66,
+        "result_type": "street",
+        "result_id": "44109_4908",
+        "result_housenumber": null,
+        "result_name": "Rue Léon Jamin",
+        "result_street": null,
+        "result_postcode": 44000,
+        "result_city": "Nantes",
+        "result_context": "44, Loire-Atlantique, Pays de la Loire",
+        "result_citycode": 44109,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "IxMzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.541528,
+          47.203458
+        ]
+      },
+      "properties": {
+        "organisme": "Kentelioù an Noz",
+        "code": 44200,
+        "commune": "Nantes",
+        "lieu": "Pôle associatif Mangin île Beaulieu ",
+        "adresse": "12 rue Anatole de Monzie",
+        "courriel": "kenteliouannoz@gmail.com",
+        "tel": "02 40 20 39 74",
+        "site": "www.breton-nantes.bzh",
+        "latitude": 47.203458,
+        "longitude": -1.541528,
+        "result_label": "12 Rue Anatole de Monzie 44200 Nantes",
+        "result_score": 0.97,
+        "result_type": "housenumber",
+        "result_id": "44109_0254_00012",
+        "result_name": "Rue Anatole de Monzie",
+        "result_street": null,
+        "result_postcode": 44200,
+        "result_city": "Nantes",
+        "result_context": "44, Loire-Atlantique, Pays de la Loire",
+        "result_citycode": 44109,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "c0NTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.584897,
+          47.212035
+        ]
+      },
+      "properties": {
+        "organisme": "Kentelioù an Noz",
+        "code": 44000,
+        "commune": "Nantes",
+        "lech": " ",
+        "lieu": "Salle Ampère ",
+        "adresse": "Rue Ampère",
+        "courriel": "kenteliouannoz@gmail.com",
+        "tel": "02 40 20 39 74",
+        "site": "www.breton-nantes.bzh",
+        "latitude": 47.212035,
+        "longitude": -1.584897,
+        "result_label": "Rue Ampère 44100 Nantes",
+        "result_score": 0.83,
+        "result_type": "street",
+        "result_id": "44109_0244",
+        "result_housenumber": null,
+        "result_name": "Rue Ampère",
+        "result_street": null,
+        "result_postcode": 44100,
+        "result_city": "Nantes",
+        "result_context": "44, Loire-Atlantique, Pays de la Loire",
+        "result_citycode": 44109,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "g1Nzk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.602286,
+          47.21929
+        ]
+      },
+      "properties": {
+        "organisme": "Kentelioù an Noz",
+        "code": 44100,
+        "commune": "Nantes",
+        "lieu": "École Diwan",
+        "adresse": "160 rue du Corps de Garde",
+        "courriel": "kenteliouannoz@gmail.com",
+        "tel": "02 40 20 39 74",
+        "site": "www.breton-nantes.bzh",
+        "latitude": 47.21929,
+        "longitude": -1.602286,
+        "result_label": "160 Rue du Corps de Garde 44100 Nantes",
+        "result_score": 0.98,
+        "result_type": "housenumber",
+        "result_id": "44109_2190_00160",
+        "result_name": "Rue du Corps de Garde",
+        "result_street": null,
+        "result_postcode": 44100,
+        "result_city": "Nantes",
+        "result_context": "44, Loire-Atlantique, Pays de la Loire",
+        "result_citycode": 44109,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "g1NjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.518788,
+          47.23603
+        ]
+      },
+      "properties": {
+        "organisme": "Kentelioù an noz",
+        "code": "44300",
+        "commune": "Nantes",
+        "lieu": "Maison de quartier Bottière",
+        "adresse": "147 route de Sainte-Luce",
+        "courriel": "kenteliouannoz@gmail.com",
+        "tel": "02 40 20 39 74",
+        "site": "www.breton-nantes.bzh",
+        "latitude": 47.23603,
+        "longitude": -1.518788,
+        "result_label": "147 Route de Sainte Luce 44300 Nantes",
+        "result_score": 0.85,
+        "result_type": "housenumber",
+        "result_id": "44109_7592_00147",
+        "result_name": "Route de Sainte Luce",
+        "result_street": null,
+        "result_postcode": 44300,
+        "result_city": "Nantes",
+        "result_context": "44, Loire-Atlantique, Pays de la Loire",
+        "result_citycode": 44109,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "A0NjQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.546194,
+          47.191074
+        ]
+      },
+      "properties": {
+        "organisme": "Kentelioù an Noz",
+        "code": 44400,
+        "commune": "Rezé",
+        "lieu": "Sal J.-B Vigier",
+        "adresse": "8 rue J.B Vigier",
+        "courriel": "kenteliouannoz@gmail.com",
+        "tel": "02 40 20 39 74",
+        "site": "www.breton-nantes.bzh",
+        "latitude": 47.191074,
+        "longitude": -1.546194,
+        "result_label": "8 Rue Jean Baptiste Vigier 44400 Rezé",
+        "result_score": 0.5,
+        "result_type": "housenumber",
+        "result_id": "44143_1920_00008",
+        "result_name": "Rue Jean Baptiste Vigier",
+        "result_street": null,
+        "result_postcode": 44400,
+        "result_city": "Rezé",
+        "result_context": "44, Loire-Atlantique, Pays de la Loire",
+        "result_citycode": 44143,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "QxNjg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.612705,
+          47.245186
+        ]
+      },
+      "properties": {
+        "organisme": "Kentelioù an Noz",
+        "code": 44800,
+        "commune": "Saint-Herblain",
+        "lieu": "Yezhoù ha Sevenadur",
+        "adresse": " 12 avenue de l'Angevinière",
+        "courriel": "kenteliouannoz@gmail.com",
+        "tel": "02 40 20 39 74",
+        "site": "www.breton-nantes.bzh",
+        "latitude": 47.245186,
+        "longitude": -1.612705,
+        "result_label": "12 Avenue de l?Angevinière 44800 Saint-Herblain",
+        "result_score": 0.97,
+        "result_type": "housenumber",
+        "result_id": "44162_0071_00012",
+        "result_name": "Avenue de l?Angevinière",
+        "result_street": null,
+        "result_postcode": 44800,
+        "result_city": "Saint-Herblain",
+        "result_context": "44, Loire-Atlantique, Pays de la Loire",
+        "result_citycode": 44162,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "UzMjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.20461,
+          47.29047
+        ]
+      },
+      "properties": {
+        "organisme": "Kuzul skoazell Diwan Sant-Nazer",
+        "code": 44600,
+        "commune": "Saint-Nazaire",
+        "lieu": "_",
+        "adresse": "101 rue de la Croix Amisse",
+        "courriel": "patrick@saintmarc.bzh",
+        "tel": "06 14 36 30 47",
+        "site": "_",
+        "latitude": 47.29047,
+        "longitude": -2.20461,
+        "result_label": "101 Rue de la Croix Amisse 44600 Saint-Nazaire",
+        "result_score": 0.97,
+        "result_type": "housenumber",
+        "result_id": "44184_1400_00101",
+        "result_name": "Rue de la Croix Amisse",
+        "result_street": null,
+        "result_postcode": 44600,
+        "result_city": "Saint-Nazaire",
+        "result_context": "44, Loire-Atlantique, Pays de la Loire",
+        "result_citycode": 44184,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "g1MTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.491352,
+          47.351178
+        ]
+      },
+      "properties": {
+        "organisme": "AVF",
+        "code": 44420,
+        "commune": "La Turballe",
+        "tel": " 02 40 23 39 03",
+        "site": "avf.asso.fr/la-turballe-piriac/breton-1-2-3",
+        "latitude": 47.351178,
+        "longitude": -2.491352,
+        "result_label": "La Turballe",
+        "result_score": 0.69,
+        "result_type": "municipality",
+        "result_id": "44211",
+        "result_housenumber": null,
+        "result_name": "La Turballe",
+        "result_street": null,
+        "result_postcode": 44420,
+        "result_city": "La Turballe",
+        "result_context": "44, Loire-Atlantique, Pays de la Loire",
+        "result_citycode": 44211,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "A2NTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.996577,
+          47.677505
+        ]
+      },
+      "properties": {
+        "organisme": "Kerlenn Sten Kidna",
+        "code": 56400,
+        "commune": "Auray",
+        "adresse": "6 rue Joseph Rollo",
+        "courriel": "ksk@ksk.bzh",
+        "tel": "02 97 29 16 58",
+        "site": "www.kerlenn-sten-kidna.bzh",
+        "latitude": 47.677505,
+        "longitude": -2.996577,
+        "result_label": "6 Rue Joseph Rollo 56400 Auray",
+        "result_score": 0.96,
+        "result_type": "housenumber",
+        "result_id": "56007_0600_00006",
+        "result_name": "Rue Joseph Rollo",
+        "result_street": null,
+        "result_postcode": 56400,
+        "result_city": "Auray",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56007,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "lieu": "-"
+      },
+      "id": "U3NTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.035935,
+          47.871361
+        ]
+      },
+      "properties": {
+        "organisme": "Skol al Louarn",
+        "code": 56150,
+        "commune": "Baud",
+        "adresse": "_",
+        "courriel": "skolarlouarnbaod@gmail.com",
+        "tel": "07 89 87 39 27",
+        "site": "www.tiarvrobropondi.com",
+        "latitude": 47.871361,
+        "longitude": -3.035935,
+        "result_label": "Baud",
+        "result_score": 0.78,
+        "result_type": "municipality",
+        "result_id": "56010",
+        "result_housenumber": null,
+        "result_name": "Baud",
+        "result_street": null,
+        "result_postcode": 56150,
+        "result_city": "Baud",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56010,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "lieu": "Maison des associations"
+      },
+      "id": "U4NTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.488054,
+          47.790635
+        ]
+      },
+      "properties": {
+        "organisme": "Ar-un-Dro e Gwidel",
+        "code": 56520,
+        "commune": "Guidel",
+        "lieu": "Maison des associations « Ti An Holl »",
+        "adresse": "_",
+        "courriel": "darempred@arundro.bzh",
+        "tel": "06 81 85 55 06",
+        "site": "arundro.bzh",
+        "latitude": 47.790635,
+        "longitude": -3.488054,
+        "result_label": "Guidel",
+        "result_score": 0.81,
+        "result_type": "municipality",
+        "result_id": "56078",
+        "result_housenumber": null,
+        "result_name": "Guidel",
+        "result_street": null,
+        "result_postcode": 56520,
+        "result_city": "Guidel",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56078,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "Q2Njg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.085131,
+          47.585792
+        ]
+      },
+      "properties": {
+        "organisme": "Kerlenn Sten Kidna",
+        "code": 56034,
+        "commune": "Carnac",
+        "lieu": "Salle Belle-île, CCAS",
+        "adresse": "46 rue Saint-Cornély",
+        "courriel": "ksk@ksk.bzh",
+        "tel": "02 97 29 16 58",
+        "site": "www.kerlenn-sten-kidna.bzh/",
+        "latitude": 47.585792,
+        "longitude": -3.085131,
+        "result_label": "46 Rue Saint Cornely 56340 Carnac",
+        "result_score": 0.81,
+        "result_type": "housenumber",
+        "result_id": "56034_0965_00046",
+        "result_name": "Rue Saint Cornely",
+        "result_street": null,
+        "result_postcode": 56340,
+        "result_city": "Carnac",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56034,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "M3NzI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.453692,
+          47.66132
+        ]
+      },
+      "properties": {
+        "organisme": "Andon",
+        "code": 56230,
+        "commune": "Questembert",
+        "lieu": "Salle Belmont et salle Alan Meur",
+        "adresse": "13 rue des Halles",
+        "courriel": "carcadio@orange.fr",
+        "tel": "06 24 93 61 34",
+        "site": "https://andon.bzh",
+        "latitude": 47.66132,
+        "longitude": -2.453692,
+        "result_label": "13 Rue des Halles 56230 Questembert",
+        "result_score": 0.96,
+        "result_type": "housenumber",
+        "result_id": "56184_1245_00013",
+        "result_name": "Rue des Halles",
+        "result_street": null,
+        "result_postcode": 56230,
+        "result_city": "Questembert",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56184,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "U2OTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.006717,
+          47.773663
+        ]
+      },
+      "properties": {
+        "organisme": "Kerlenn Sten Kidna",
+        "code": 56330,
+        "commune": "Pluvigner",
+        "lieu": "Salle du Tanin",
+        "adresse": "11 rue du Tanin",
+        "courriel": "ksk@ksk.bzh",
+        "tel": "02 97 29 16 58",
+        "site": "www.kerlenn-sten-kidna.bzh",
+        "latitude": 47.773663,
+        "longitude": -3.006717,
+        "result_label": "11 Rue du Tanin 56330 Pluvigner",
+        "result_score": 0.96,
+        "result_type": "housenumber",
+        "result_id": "56177_0243_00011",
+        "result_name": "Rue du Tanin",
+        "result_street": null,
+        "result_postcode": 56330,
+        "result_city": "Pluvigner",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56177,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "A2NjY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.978668,
+          48.059266
+        ]
+      },
+      "properties": {
+        "organisme": "Kerlenn Pondi et Ti ar Vro Bro Pondi",
+        "code": 56300,
+        "commune": "Pontivy",
+        "courriel": "tiarvro.bropondi@gmail.com",
+        "tel": "07 68 39 89 19",
+        "latitude": 48.060578,
+        "longitude": -2.978924,
+        "result_label": "Rue Roland Dorgelés 56300 Pontivy",
+        "result_score": 0.96,
+        "result_type": "street",
+        "result_id": "56178_1865",
+        "result_housenumber": null,
+        "result_name": "Rue Roland Dorgelés",
+        "result_street": null,
+        "result_postcode": 56300,
+        "result_city": "Pontivy",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56178,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "adresse": "Rue Balzac",
+        "site": "www.tiarvrobropondi.com",
+        "lieu": "Local de Kerlenn Pondi"
+      },
+      "id": "QxNzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.355557,
+          47.710027
+        ]
+      },
+      "properties": {
+        "organisme": "Cercle celtique An drouz vor",
+        "code": 56290,
+        "commune": "Port-Louis",
+        "lieu": "Salle Jean-Baptiste Havret",
+        "adresse": "Bld de la Compagnie des Indes",
+        "courriel": "androuzvor@yahoo.fr",
+        "tel": "06 62 15 94 95",
+        "site": "androuzvor.jimdofree.com",
+        "latitude": 47.710027,
+        "longitude": -3.355557,
+        "result_label": "Boulevard de la Compagnie des Indes 56290 Port-Louis",
+        "result_score": 0.95,
+        "result_type": "street",
+        "result_id": "56181_0267",
+        "result_housenumber": null,
+        "result_name": "Boulevard de la Compagnie des Indes",
+        "result_street": null,
+        "result_postcode": 56290,
+        "result_city": "Port-Louis",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56181,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "gwNDQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.685929,
+          47.934446
+        ]
+      },
+      "properties": {
+        "latitude": 47.934446,
+        "longitude": -3.685929,
+        "result_label": "Bannalec",
+        "result_score": 0.82,
+        "result_type": "municipality",
+        "result_id": "29004",
+        "result_housenumber": null,
+        "result_name": "Bannalec",
+        "result_street": null,
+        "result_postcode": 29380,
+        "result_city": "Bannalec",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29004,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "organisme": "AEP Skol Diwan",
+        "code": "29380",
+        "commune": "Bannalec",
+        "lieu": "Skol Diwan Banaleg",
+        "adresse": "_",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "06 62 70 62 88",
+        "site": "_"
+      },
+      "id": "QxMTY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.58517,
+          48.271557
+        ]
+      },
+      "properties": {
+        "organisme": "Kameled ar Son",
+        "code": 29570,
+        "commune": "Camaret-sur-mer",
+        "courriel": "poudoulec.raymond@orange.fr",
+        "tel": "02 98 16 71 26 / 06 75 89 99 81",
+        "latitude": 48.271557,
+        "longitude": -4.58517,
+        "result_label": "Camaret-sur-Mer",
+        "result_score": 0.86,
+        "result_type": "municipality",
+        "result_id": "29022",
+        "result_housenumber": null,
+        "result_name": "Camaret-sur-Mer",
+        "result_street": null,
+        "result_postcode": 29570,
+        "result_city": "Camaret-sur-Mer",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29022,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "Y4MDU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.985198,
+          48.681854
+        ]
+      },
+      "properties": {
+        "lech": "Ty-Kastelliz",
+        "latitude": 48.681854,
+        "longitude": -3.985198,
+        "result_score": 0.76,
+        "result_type": "street",
+        "result_id": "29259_2yimkj",
+        "result_housenumber": null,
+        "result_street": null,
+        "result_postcode": 29250,
+        "result_city": "Saint-Pol-de-Léon",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29259,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "adresse": "1 rue Plouénan",
+        "code": "29250",
+        "commune": "Saint-Pol-de-Léon",
+        "courriel": "contact@bwr.bzh",
+        "kenrouedad": "-",
+        "organisme": "Brezhoneg war-raok",
+        "tel": "06 08 42 25 00"
+      },
+      "id": "E3NTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.584869,
+          47.794274
+        ]
+      },
+      "properties": {
+        "organisme": "Korollerien Laeta (atelier chant, pas débutant)",
+        "code": 29360,
+        "commune": "Clohars-Carnoët",
+        "lieu": "Maison des Associations",
+        "adresse": "47 rue Saint Jacques",
+        "courriel": "korollerien.laeta@gmail.com",
+        "tel": "02 98 39 98 54",
+        "site": "korollerien.laita.free.fr",
+        "latitude": 47.794255,
+        "longitude": -3.584832,
+        "result_label": "Rue de Saint Jacques 29360 Clohars-Carnoët",
+        "result_score": 0.83,
+        "result_type": "street",
+        "result_id": "29031_0800",
+        "result_housenumber": null,
+        "result_name": "Rue de Saint Jacques",
+        "result_street": null,
+        "result_postcode": 29360,
+        "result_city": "Clohars-Carnoët",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29031,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "EwMjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7295,
+          48.43362
+        ]
+      },
+      "properties": {
+        "organisme": "Tre-Arzh",
+        "code": 29810,
+        "commune": "Plouarzel",
+        "lieu": "Médiathèque ",
+        "adresse": "4 route de Saint Renan",
+        "courriel": "jeanclaude.jezekel@wanadoo.fr",
+        "tel": "02 98 89 31 05",
+        "site": "_",
+        "latitude": 48.43362,
+        "longitude": -4.7295,
+        "result_label": "4 Route de Saint-Renan 29810 Plouarzel",
+        "result_score": 0.96,
+        "result_type": "housenumber",
+        "result_id": "29177_0330_00004",
+        "result_name": "Route de Saint-Renan",
+        "result_street": null,
+        "result_postcode": 29810,
+        "result_city": "Plouarzel",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29177,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "Q2ODg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.332119,
+          48.654363
+        ]
+      },
+      "properties": {
+        "organisme": "Les P'tits Potes",
+        "code": "22240",
+        "commune": "Plévenon",
+        "lieu": "Ecole de Plévenon",
+        "adresse": "3 route du Cap",
+        "courriel": "lesptitspotes22@gmail.com",
+        "tel": "06 26 13 09 94",
+        "site": "www.lesptitspotes.bzh/"
+      },
+      "id": "MyOTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.577675,
+          47.232843
+        ]
+      },
+      "properties": {
+        "organisme": "Kentelioù an Noz",
+        "commune": "Nantes",
+        "lieu": "Salle La Prime ",
+        "adresse": "5 avenue de la Prime",
+        "courriel": "kenteliouannoz@gmail.com",
+        "tel": "02 40 20 39 74",
+        "code": "44000",
+        "site": "www.breton-nantes.bzh"
+      },
+      "id": "MxMjU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.984333,
+          48.749851
+        ]
+      },
+      "properties": {
+        "organisme": "Arvoriz",
+        "code": "29290",
+        "commune": "Plouézec",
+        "lieu": "Salle des associations",
+        "courriel": "yfm_diw@hotmail.com",
+        "tel": "02 96 22 33 76",
+        "site": "_"
+      },
+      "id": "g3MTQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.688805,
+          48.126914
+        ]
+      },
+      "properties": {
+        "organisme": "Kelc'h Keltiek Roazhon",
+        "code": 35000,
+        "commune": "Rennes",
+        "lieu": "Salle Kennedy",
+        "adresse": "3 rue de Lorraine",
+        "courriel": "contact@cercleceltiquederennes.org",
+        "tel": "06 89 40 82 95",
+        "site": "www.cercleceltiquederennes.org",
+        "latitude": 48.127015,
+        "longitude": -1.687268,
+        "result_label": "Avenue Charles et Raymonde Tillon 35000 Rennes",
+        "result_score": 0.59,
+        "result_type": "street",
+        "result_id": "35238_1744",
+        "result_housenumber": null,
+        "result_name": "Avenue Charles et Raymonde Tillon",
+        "result_street": null,
+        "result_postcode": 35000,
+        "result_city": "Rennes",
+        "result_context": "35, Ille-et-Vilaine, Bretagne",
+        "result_citycode": 35238,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "AwMDg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.766907,
+          47.528802
+        ]
+      },
+      "properties": {
+        "organisme": "Brezhoneg e Rewis",
+        "code": 56370,
+        "commune": "Sarzeau",
+        "lieu": "Salle Francheville ",
+        "adresse": "Place Francheville",
+        "courriel": "bzherewis@gmail.com",
+        "tel": "06 82 14 60 99",
+        "site": "_",
+        "latitude": 47.528802,
+        "longitude": -2.766907,
+        "result_label": "Place de Francheville 56370 Sarzeau",
+        "result_score": 0.87,
+        "result_type": "street",
+        "result_id": "56240_1010",
+        "result_housenumber": null,
+        "result_name": "Place de Francheville",
+        "result_street": null,
+        "result_postcode": 56370,
+        "result_city": "Sarzeau",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56240,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "Q4MjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.569913,
+          47.87023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "organisme": "Kuzul skoazell Skol Diwan",
+        "code": 29300,
+        "commune": "Quimperlé",
+        "courriel": "fanny.chauffin@laposte.net",
+        "tel": "02 98 71 74 94 / 06 79 14 96 87",
+        "result_housenumber": null,
+        "result_street": null,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "lieu": "Skol Diwan",
+        "adresse": "Rue de Pont-Aven",
+        "site": "_"
+      },
+      "id": "Q5NjE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.506969,
+          48.607433
+        ]
+      },
+      "properties": {
+        "organisme": "Ar Vro Bagan",
+        "code": "29880",
+        "commune": "Plougerneau",
+        "courriel": "arvrobagan3@gmail.com",
+        "tel": "02 98 04 50 06 / 06 07 49 64 20",
+        "site": "arvrobagan.bzh",
+        "lieu": "_",
+        "adresse": "95 Hellez Tosta"
+      },
+      "id": "A5Njk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.411942,
+          48.793295
+        ]
+      },
+      "properties": {
+        "organisme": "Skol al Louarn",
+        "code": 22700,
+        "commune": "Louannec",
+        "lieu": "Salle des Fêtes ",
+        "adresse": "Rue des Ecoles",
+        "tel": "06 48 77 63 96",
+        "latitude": 48.79338,
+        "longitude": -3.411652,
+        "result_label": "Rue des Ecoles 22700 Louannec",
+        "result_score": 0.95,
+        "result_type": "street",
+        "result_id": "22134_0007",
+        "result_housenumber": null,
+        "result_name": "Rue des Ecoles",
+        "result_street": null,
+        "result_postcode": 22700,
+        "result_city": "Louannec",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22134,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "courriel": "skol-al-louarn@orange.fr"
+      },
+      "id": "YzODU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.462115,
+          47.637204
+        ]
+      },
+      "properties": {
+        "organisme": "Enezig",
+        "code": "56591",
+        "commune": "Groix",
+        "courriel": "je.suis.bretonne.sur@gmail.com",
+        "latitude": 47.637204,
+        "longitude": -3.462115,
+        "result_label": "Groix",
+        "result_score": 0.79,
+        "result_type": "municipality",
+        "result_id": "56069",
+        "result_housenumber": null,
+        "result_name": "Groix",
+        "result_street": null,
+        "result_postcode": 56590,
+        "result_city": "Groix",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56069,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "lieu": "Médiathèque",
+        "adresse": "1 rue des Thoniers",
+        "tel": "06 51 91 20 13",
+        "site": "https://bretongroix.bzh/enezig/"
+      },
+      "id": "g0ODY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.103704,
+          47.694535
+        ]
+      },
+      "properties": {
+        "organisme": "Ar vammenn",
+        "code": 56550,
+        "commune": "Locoal-Mendon",
+        "lieu": "Salle Émeraude",
+        "adresse": "_",
+        "courriel": "arvammenn@gmail.com",
+        "tel": "06 19 93 60 25 / 02 97 24 58 28",
+        "site": "_",
+        "latitude": 47.694535,
+        "longitude": -3.103704,
+        "result_label": "Locoal-Mendon",
+        "result_score": 0.85,
+        "result_type": "municipality",
+        "result_id": "56119",
+        "result_housenumber": null,
+        "result_name": "Locoal-Mendon",
+        "result_street": null,
+        "result_postcode": 56550,
+        "result_city": "Locoal-Mendon",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56119,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "I1NjE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.464569,
+          48.402312
+        ]
+      },
+      "properties": {
+        "organisme": "Ar Skol Vrezoneg",
+        "code": 29200,
+        "commune": "Brest",
+        "lieu": "Patronage Laïque du Pilier Rouge",
+        "adresse": "2 rue de Fleurus",
+        "courriel": "plmpr.accueil@gmail.com",
+        "tel": "02 98 41 89 76",
+        "latitude": 48.402005,
+        "longitude": -4.464011,
+        "result_label": "2 Rue de Fleurus 29200 Brest",
+        "result_score": 0.96,
+        "result_type": "housenumber",
+        "result_id": "29019_1650_00002",
+        "result_name": "Rue de Fleurus",
+        "result_street": null,
+        "result_postcode": 29200,
+        "result_city": "Brest",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29019,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "site": "plpr.fr"
+      },
+      "id": "g5MTQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.245811,
+          48.450245
+        ]
+      },
+      "properties": {
+        "organisme": "Ti ar Vro Landerne-Daoulaz",
+        "code": 29800,
+        "commune": "Landerneau",
+        "lieu": "Centre Théo Le Borgne ",
+        "adresse": "1 rue du Docteur Pouliquen",
+        "courriel": "degemer@tiarvrolandernedaoulaz.bzh",
+        "tel": "09 73 65 35 24 / 07 67 17 58 29",
+        "site": "www.tiarvrolandernedaoulaz.bzh",
+        "latitude": 48.450245,
+        "longitude": -4.245811,
+        "result_label": "1 Rue du Docteur Pouliquen 29800 Landerneau",
+        "result_score": 0.96,
+        "result_type": "housenumber",
+        "result_id": "29103_0470_00001",
+        "result_housenumber": "1",
+        "result_name": "Rue du Docteur Pouliquen",
+        "result_street": null,
+        "result_postcode": 29800,
+        "result_city": "Landerneau",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29103,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "Y4OTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.436806,
+          48.183114
+        ]
+      },
+      "properties": {
+        "organisme": "Skol an Emsav",
+        "code": 35340,
+        "commune": "La Bouëxière",
+        "lieu": "_",
+        "courriel": "degemer@skolanemsav.bzh",
+        "tel": "02 99 38 75 83",
+        "site": "www.skolanemsav.bzh",
+        "latitude": 48.176211,
+        "longitude": -1.433005,
+        "result_label": "La Bouëxière",
+        "result_score": 0.7,
+        "result_type": "municipality",
+        "result_id": "35031",
+        "result_housenumber": null,
+        "result_name": "La Bouëxière",
+        "result_street": null,
+        "result_postcode": 35340,
+        "result_city": "La Bouëxière",
+        "result_context": "35, Ille-et-Vilaine, Bretagne",
+        "result_citycode": 35031,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "adresse": "Rue St-Martin et rue Pavy"
+      },
+      "id": "E4Njg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.737193,
+          48.026324
+        ]
+      },
+      "properties": {
+        "organisme": "Bruzhoneg",
+        "code": 35170,
+        "commune": "Bruz",
+        "lieu": "Maison des associations",
+        "adresse": "59 avenue Alphonse Legault",
+        "courriel": "degemer@skolanemsav.bzh",
+        "tel": "02 99 38 75 83",
+        "site": "www.skolanemsav.bzh",
+        "latitude": 48.026324,
+        "longitude": -1.737193,
+        "result_label": "59 Avenue Alphonse Legault 35170 Bruz",
+        "result_score": 0.97,
+        "result_type": "housenumber",
+        "result_id": "35047_0010_00059",
+        "result_housenumber": "59",
+        "result_name": "Avenue Alphonse Legault",
+        "result_street": null,
+        "result_postcode": 35170,
+        "result_city": "Bruz",
+        "result_context": "35, Ille-et-Vilaine, Bretagne",
+        "result_citycode": 35047,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "g4NTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.719694,
+          48.301942
+        ]
+      },
+      "properties": {
+        "organisme": "Skol an Emsav",
+        "code": 35440,
+        "commune": "Guipel",
+        "lieu": "Salle Bambou",
+        "adresse": "_",
+        "courriel": "degemer@skolanemsav.bzh",
+        "tel": "02 99 38 75 83",
+        "site": "www.skolanemsav.bzh",
+        "latitude": 48.301942,
+        "longitude": -1.719694,
+        "result_label": "Guipel",
+        "result_score": 0.8,
+        "result_type": "municipality",
+        "result_id": "35128",
+        "result_housenumber": null,
+        "result_name": "Guipel",
+        "result_street": null,
+        "result_postcode": 35440,
+        "result_city": "Guipel",
+        "result_context": "35, Ille-et-Vilaine, Bretagne",
+        "result_citycode": 35128,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "A3NjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.961893,
+          48.12473
+        ]
+      },
+      "properties": {
+        "organisme": "Kelc'h keltiek Moñforzh",
+        "code": 35160,
+        "commune": "Montfort-sur-Meu",
+        "lieu": "_",
+        "courriel": "degemer@skolanemsav.bzh",
+        "tel": "02 99 38 75 83 / 06 26 27 04 27",
+        "site": "www.skolanemsav.bzh",
+        "latitude": 48.12473,
+        "longitude": -1.961893,
+        "result_label": "Montfort-sur-Meu",
+        "result_score": 0.87,
+        "result_type": "municipality",
+        "result_id": "35188",
+        "result_housenumber": null,
+        "result_name": "Montfort-sur-Meu",
+        "result_street": null,
+        "result_postcode": 35160,
+        "result_city": "Montfort-sur-Meu",
+        "result_context": "35, Ille-et-Vilaine, Bretagne",
+        "result_citycode": 35188,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "adresse": "2 rue de l'Abbaye"
+      },
+      "id": "M0MzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.081609,
+          47.651628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "organisme": "Gwelet 'vo !",
+        "code": 35600,
+        "commune": "Redon",
+        "courriel": "gweletvo@gmail.com",
+        "tel": "07 68 13 56 28",
+        "latitude": 47.656781,
+        "longitude": -2.074178,
+        "result_label": "Redon",
+        "result_score": 0.79,
+        "result_type": "municipality",
+        "result_id": "35236",
+        "result_housenumber": null,
+        "result_name": "Redon",
+        "result_street": null,
+        "result_postcode": 35600,
+        "result_city": "Redon",
+        "result_context": "35, Ille-et-Vilaine, Bretagne",
+        "result_citycode": 35236,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "lieu": "Groupe d'Entraide Mutuel \"La Bicoque\" (pour les membres)",
+        "adresse": "1 rue du Tribunal",
+        "site": "gweletvo.wordpress.com / www.facebook.com/gwelet.vo.71"
+      },
+      "id": "cyMTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.679818,
+          48.11536
+        ]
+      },
+      "properties": {
+        "organisme": "Skol an Emsav",
+        "code": 35000,
+        "commune": "Rennes",
+        "lieu": "_",
+        "adresse": "8 contour Saint-Aubin",
+        "courriel": "degemer@skolanemsav.bzh",
+        "tel": "02 99 38 75 83",
+        "site": "www.skolanemsav.bzh",
+        "latitude": 48.11536,
+        "longitude": -1.679818,
+        "result_label": "8 Contour Saint-Aubin 35000 Rennes",
+        "result_score": 0.97,
+        "result_type": "housenumber",
+        "result_id": "35238_e1sklg_00008",
+        "result_housenumber": "8",
+        "result_name": "Contour Saint-Aubin",
+        "result_street": null,
+        "result_postcode": 35000,
+        "result_city": "Rennes",
+        "result_context": "35, Ille-et-Vilaine, Bretagne",
+        "result_citycode": 35238,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "Y0NTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.016836,
+          48.640091
+        ]
+      },
+      "properties": {
+        "organisme": "Kreizenn Sevenadurel Breizh",
+        "code": "35400",
+        "commune": "Saint-Malo",
+        "lieu": "Centre culturel breton",
+        "adresse": "17 rue du Port  - Saint-Servan",
+        "courriel": "joel.martini@laposte.net",
+        "tel": "06 45 29 53 59",
+        "site": "www.centreculturelbretonsaintmalo.bzh",
+        "latitude": 48.640091,
+        "longitude": -2.016836,
+        "result_label": "17 Rue du Port 35400 Saint-Malo",
+        "result_score": 0.62,
+        "result_type": "housenumber",
+        "result_id": "35288_6890_00017",
+        "result_housenumber": "17",
+        "result_name": "Rue du Port",
+        "result_street": null,
+        "result_postcode": 35400,
+        "result_city": "Saint-Malo",
+        "result_context": "35, Ille-et-Vilaine, Bretagne",
+        "result_citycode": 35288,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "Q2Njc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.40676,
+          47.331311
+        ]
+      },
+      "properties": {
+        "organisme": "Skol al Louarn",
+        "code": 44350,
+        "commune": "Guérande",
+        "lieu": "Salle Victor Hugo  / École Diwan",
+        "courriel": "kidufridu@neuf.fr / guillaume.nault@wanadoo.fr",
+        "tel": "06 86 36 03 94 / 06 76 55 49 01",
+        "site": "www.skolallouarn.org",
+        "latitude": 47.331311,
+        "longitude": -2.40676,
+        "result_label": "Guérande",
+        "result_score": 0.83,
+        "result_type": "municipality",
+        "result_id": "44069",
+        "result_housenumber": null,
+        "result_name": "Guérande",
+        "result_street": null,
+        "result_postcode": 44350,
+        "result_city": "Guérande",
+        "result_context": "44, Loire-Atlantique, Pays de la Loire",
+        "result_citycode": 44069,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "adresse": "Rue Victor Hugo / Place du Sénéchal"
+      },
+      "id": "EwNDY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.761858,
+          47.657763
+        ]
+      },
+      "properties": {
+        "organisme": "Emglev Bro Gwened",
+        "code": 56000,
+        "commune": "Vannes",
+        "lieu": "Ti ar Vro",
+        "adresse": "3 rue de la Loi",
+        "courriel": "emglev.bro.gwened@gmail.com",
+        "tel": "09 72 61 16 89",
+        "site": "tiarvro-bro-gwened.bzh",
+        "latitude": 47.657763,
+        "longitude": -2.761858,
+        "result_label": "3 Rue de la Loi 56000 Vannes",
+        "result_score": 0.97,
+        "result_type": "housenumber",
+        "result_id": "56260_2200_00003",
+        "result_housenumber": "3",
+        "result_name": "Rue de la Loi",
+        "result_street": null,
+        "result_postcode": 56000,
+        "result_city": "Vannes",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56260,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "M3MzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.724009,
+          47.659549
+        ]
+      },
+      "properties": {
+        "organisme": "Skol Diwan Gwened",
+        "code": 56000,
+        "commune": "Vannes",
+        "lieu": "École Diwan  ",
+        "adresse": "3 impasse Bohalgoù",
+        "courriel": "maryvonne.le-vaix@orange.fr",
+        "tel": "02 97 47 85 92",
+        "site": "_",
+        "latitude": 47.659538,
+        "longitude": -2.724005,
+        "result_label": "3 Impasse de Bohalgo 56000 Vannes",
+        "result_score": 0.8,
+        "result_type": "housenumber",
+        "result_id": "56260_0381_00003",
+        "result_housenumber": "3",
+        "result_name": "Impasse de Bohalgo",
+        "result_street": null,
+        "result_postcode": 56000,
+        "result_city": "Vannes",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56260,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "Q1Nzg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.265656,
+          47.805833
+        ]
+      },
+      "properties": {
+        "organisme": "Ar sklerijenn",
+        "code": 56700,
+        "commune": "Hennebont",
+        "lieu": "Maison pour Tous ",
+        "adresse": "Rue Gérard Philippe",
+        "courriel": "arsklerijenn.henbont@orange.fr",
+        "tel": "06 81 77 46 80",
+        "latitude": 47.805833,
+        "longitude": -3.265656,
+        "result_label": "Parc de Kerbihan 56700 Hennebont",
+        "result_score": 0.67,
+        "result_type": "street",
+        "result_id": "56083_i364ya",
+        "result_housenumber": null,
+        "result_name": "Parc de Kerbihan",
+        "result_street": null,
+        "result_postcode": 56700,
+        "result_city": "Hennebont",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56083,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "site": "www.facebook.com/ArSklerijennHenbont"
+      },
+      "id": "E1NTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.200131,
+          48.059071
+        ]
+      },
+      "properties": {
+        "organisme": "Kafe Bara Amonenn",
+        "code": 56310,
+        "commune": "Locmalo",
+        "lieu": "Salle Le Chapelain",
+        "adresse": "_",
+        "courriel": "ectjathomas@orange.fr",
+        "tel": "07 81 68 53 64 / 06 73 71 79 22",
+        "latitude": 48.059071,
+        "longitude": -3.200131,
+        "result_label": "Locmalo",
+        "result_score": 0.51,
+        "result_type": "municipality",
+        "result_id": "56113",
+        "result_housenumber": null,
+        "result_name": "Locmalo",
+        "result_street": null,
+        "result_postcode": 56160,
+        "result_city": "Locmalo",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56113,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "site": "www.tiarvrobropondi.com"
+      },
+      "id": "cyMDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.650525,
+          47.628827
+        ]
+      },
+      "properties": {
+        "organisme": "Cercle celtique En arben",
+        "code": 56450,
+        "commune": "Theix-Noyalo",
+        "lieu": "Ancienne mairie de Noyalo",
+        "courriel": "cercleenarben@gmail.com",
+        "tel": "02 97 43 61 78 / 06 74 96 01 54",
+        "latitude": 47.628827,
+        "longitude": -2.650525,
+        "result_label": "Place de la Chapelle 56450 Theix-Noyalo",
+        "result_score": 0.96,
+        "result_type": "street",
+        "result_id": "56251_0033",
+        "result_housenumber": null,
+        "result_name": "Place de la Chapelle",
+        "result_street": null,
+        "result_postcode": 56450,
+        "result_city": "Theix-Noyalo",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56251,
+        "result_oldcitycode": 56251,
+        "result_oldcity": "Theix",
+        "result_district": null,
+        "site": "enarben.com"
+      },
+      "id": "Q2NDk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.487915,
+          48.040906
+        ]
+      },
+      "properties": {
+        "organisme": "Emglev Bro ar C’hab ",
+        "code": 29790,
+        "commune": "Pont-Croix",
+        "lieu": "Espace culturel Bolloré",
+        "adresse": "Rue Jean-Louis le Goff",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "06 74 64 78 69 / 02 98 87 72 41",
+        "site": "www.mervent.bzh",
+        "latitude": 48.041579,
+        "longitude": -4.489839,
+        "result_label": "Rue Jean Louis le Goff 29790 Pont-Croix",
+        "result_score": 0.95,
+        "result_type": "street",
+        "result_id": "29218_0400",
+        "result_housenumber": null,
+        "result_name": "Rue Jean Louis le Goff",
+        "result_street": null,
+        "result_postcode": 29790,
+        "result_city": "Pont-Croix",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29218,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "Y5MzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.224671,
+          47.869788
+        ]
+      },
+      "properties": {
+        "organisme": "Startijenn ar Vro Vigouden",
+        "code": 29120,
+        "commune": "Pont-L'Abbé",
+        "lieu": "Maison des associations",
+        "adresse": "17 rue de la Gare",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "06 12 17 49 39 / 02 98 87 72 41",
+        "site": "www.mervent.bzh",
+        "latitude": 47.869788,
+        "longitude": -4.224671,
+        "result_label": "17 Rue de la Gare 29120 Pont-l'Abbé",
+        "result_score": 0.96,
+        "result_type": "housenumber",
+        "result_id": "29220_0350_00017",
+        "result_housenumber": "17",
+        "result_name": "Rue de la Gare",
+        "result_street": null,
+        "result_postcode": 29120,
+        "result_city": "Pont-l'Abbé",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29220,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "c5NTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.602256,
+          48.567243
+        ]
+      },
+      "properties": {
+        "organisme": "Brezhoneg e Bro an Aberioù",
+        "code": 29830,
+        "commune": "Saint-Pabu",
+        "adresse": "5 Park Bras",
+        "courriel": "Kristof.brezhonegebroanaberioù@gmail.com",
+        "tel": "06 38 51 30 40 / 06 74 77 64 80",
+        "site": "tiarvroleon.bzh",
+        "latitude": 48.567243,
+        "longitude": -4.602256,
+        "result_label": "18 Hameau du Libenter 29830 Saint-Pabu",
+        "result_score": 0.86,
+        "result_type": "housenumber",
+        "result_id": "29257_a005_00018",
+        "result_housenumber": "18",
+        "result_name": "Hameau du Libenter",
+        "result_street": null,
+        "result_postcode": 29830,
+        "result_city": "Saint-Pabu",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29257,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "lieu": "_"
+      },
+      "id": "MwNTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.845129,
+          48.575017
+        ]
+      },
+      "properties": {
+        "organisme": "KLT",
+        "code": "29600",
+        "commune": "Saint-Martin-des-Champs",
+        "tel": "02 98 63 98 79 / 06 82 77 10 10",
+        "courriel": "klt@wanadoo.fr",
+        "site": "www.klt.bzh",
+        "lieu": "_",
+        "adresse": "_"
+      },
+      "id": "k3NDg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.851196,
+          47.719463
+        ]
+      },
+      "properties": {
+        "organisme": "Gwelet 'vo !",
+        "code": "35660",
+        "commune": "Langon",
+        "lieu": "Café des Tilleuls",
+        "tel": "07 68 13 56 28",
+        "courriel": "gweletvo@gmail.com",
+        "site": "gweletvo.wordpress.com / www.facebook.com/gwelet.vo.71",
+        "adresse": "2 rue de la Bimais"
+      },
+      "id": "U4OTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.902657,
+          47.875758
+        ]
+      },
+      "properties": {
+        "organisme": "Tud Bro Konk",
+        "code": 29900,
+        "commune": "Concarneau",
+        "lieu": "Ferme du Moros",
+        "adresse": "Rue des Bolincheurs",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "06 43 49 93 93  / 02 98 87 72 41",
+        "site": "www.mervent.bzh",
+        "latitude": 47.875758,
+        "longitude": -3.902657,
+        "result_label": "Rue des Bolincheurs 29900 Concarneau",
+        "result_score": 0.96,
+        "result_type": "street",
+        "result_id": "29039_0227",
+        "result_housenumber": null,
+        "result_name": "Rue des Bolincheurs",
+        "result_street": null,
+        "result_postcode": 29900,
+        "result_city": "Concarneau",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29039,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "AzMTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.337459,
+          48.000311
+        ]
+      },
+      "properties": {
+        "organisme": "Dihun",
+        "code": 29710,
+        "commune": "Landudec",
+        "lieu": "Salle polyvalente",
+        "adresse": "11 rue Ar Marquis",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "02 98 87 68 41 / 02 98 87 72 41",
+        "site": "ww.mervent.bzh",
+        "latitude": 48.000311,
+        "longitude": -4.337459,
+        "result_label": "11 Rue Ar Marquis 29710 Landudec",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "29108_0015_00011",
+        "result_housenumber": "11",
+        "result_name": "Rue Ar Marquis",
+        "result_street": null,
+        "result_postcode": 29710,
+        "result_city": "Landudec",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29108,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "IzNjY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.32953,
+          48.571146
+        ]
+      },
+      "properties": {
+        "organisme": "Ti ar Vro Leon",
+        "code": 29260,
+        "commune": "Lesneven",
+        "lieu": "_  ",
+        "adresse": "48 rue du Général de Gaulle",
+        "courriel": "tiarvroleon@gmail.com",
+        "tel": "09 83 22 42 96",
+        "site": "tiarvroleon.bzh",
+        "latitude": 48.571146,
+        "longitude": -4.32953,
+        "result_label": "48 Rue General de Gaulle 29260 Lesneven",
+        "result_score": 0.9,
+        "result_type": "housenumber",
+        "result_id": "29124_0430_00048",
+        "result_housenumber": "48",
+        "result_name": "Rue General de Gaulle",
+        "result_street": null,
+        "result_postcode": 29260,
+        "result_city": "Lesneven",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29124,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "g5NTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.206041,
+          48.098695
+        ]
+      },
+      "properties": {
+        "organisme": "Ti ar soñj",
+        "code": 29180,
+        "commune": "Locronan",
+        "lieu": "Salle Ti Lokorn",
+        "adresse": "Rue du Four",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "02 98 51 82 02 / 02 98 87 72 41",
+        "site": "www.mervent.bzh",
+        "latitude": 48.098695,
+        "longitude": -4.206041,
+        "result_label": "Rue du Four 29180 Locronan",
+        "result_score": 0.95,
+        "result_type": "street",
+        "result_id": "29134_0260",
+        "result_housenumber": null,
+        "result_name": "Rue du Four",
+        "result_street": null,
+        "result_postcode": 29180,
+        "result_city": "Locronan",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29134,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "E5NzI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.610047,
+          48.427215
+        ]
+      },
+      "properties": {
+        "organisme": "Skolpad Lokournan",
+        "code": 29290,
+        "commune": "Saint-Renan",
+        "courriel": "degemer@sked.bzh / michel-le.hir@orange.fr",
+        "tel": "06 89 49 12 51 / 02 98 80 26 71",
+        "site": "skolpad-lokournan.fr",
+        "latitude": 48.427215,
+        "longitude": -4.610047,
+        "result_label": "Rue des Pierres Noires 29290 Saint-Renan",
+        "result_score": 0.95,
+        "result_type": "street",
+        "result_id": "29260_0831",
+        "result_housenumber": null,
+        "result_name": "Rue des Pierres Noires",
+        "result_street": null,
+        "result_postcode": 29290,
+        "result_city": "Saint-Renan",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29260,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "adresse": "Rue des Pierres noires",
+        "lieu": "Salle des Pierres noires"
+      },
+      "id": "IyOTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.171045,
+          47.828507
+        ]
+      },
+      "properties": {
+        "organisme": "Comité de jumelage Fishguard Ribadeo",
+        "code": 29750,
+        "commune": "Loctudy",
+        "lieu": "Complexe sportif",
+        "adresse": "Rue Poull Gleuvian",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "06 86 08 44 57 / 02 98 87 72 41",
+        "latitude": 47.828507,
+        "longitude": -4.171045,
+        "result_label": "788 Rue de Glévian 29750 Loctudy",
+        "result_score": 0.96,
+        "result_type": "housenumber",
+        "result_id": "29135_0300_00788",
+        "result_housenumber": "788",
+        "result_name": "Rue de Glévian",
+        "result_street": null,
+        "result_postcode": 29750,
+        "result_city": "Loctudy",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29135,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "site": "www.mervent.bzh"
+      },
+      "id": "E2OTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.306835,
+          48.372426
+        ]
+      },
+      "properties": {
+        "organisme": "Gorre ha Goueled",
+        "code": 29470,
+        "commune": "Loperhet",
+        "courriel": "ghg@gorrehagoueled.bzh",
+        "tel": "07 82 99 97 80 / 02 98 80 26 71",
+        "site": "www.gorrehagoueled.bzh",
+        "latitude": 48.372426,
+        "longitude": -4.306835,
+        "result_label": "Route de Rostiviec 29470 Loperhet",
+        "result_score": 0.85,
+        "result_type": "street",
+        "result_id": "29140_0380",
+        "result_housenumber": null,
+        "result_name": "Route de Rostiviec",
+        "result_street": null,
+        "result_postcode": 29470,
+        "result_city": "Loperhet",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29140,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "adresse": "Rue Saint-Léonard",
+        "lieu": "Salle Manarc'h"
+      },
+      "id": "UzMzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.58064,
+          47.902919
+        ]
+      },
+      "properties": {
+        "organisme": "Amicale laïque",
+        "code": 29300,
+        "commune": "Mellac",
+        "lieu": "Foyers communaux",
+        "courriel": "amicalelaique.mellac29@gmail.com",
+        "site": "www.mervent.bzh",
+        "latitude": 47.902919,
+        "longitude": -3.58064,
+        "result_label": "Rue du Bourg 29300 Mellac",
+        "result_score": 0.96,
+        "result_type": "street",
+        "result_id": "29147_0215",
+        "result_housenumber": null,
+        "result_name": "Rue du Bourg",
+        "result_street": null,
+        "result_postcode": 29300,
+        "result_city": "Mellac",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29147,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "tel": "06 95 45 01 38 / 02 98 87 72 41",
+        "adresse": "-"
+      },
+      "id": "k3MzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.956868,
+          48.300659
+        ]
+      },
+      "properties": {
+        "organisme": "L'Héritage culturel de Brasparzh",
+        "code": 29190,
+        "commune": "Brasparts",
+        "lieu": "Salle Frédéric Le Guyader",
+        "adresse": "Rue de l'Eglise",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "02 98 87 72 41",
+        "site": "www.mervent.bzh",
+        "latitude": 48.300659,
+        "longitude": -3.956868,
+        "result_label": "Rue de l?Eglise 29190 Brasparts",
+        "result_score": 0.95,
+        "result_type": "street",
+        "result_id": "29016_0060",
+        "result_housenumber": null,
+        "result_name": "Rue de l?Eglise",
+        "result_street": null,
+        "result_postcode": 29190,
+        "result_city": "Brasparts",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29016,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "A3NjE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.334855,
+          48.09513
+        ]
+      },
+      "properties": {
+        "organisme": "MJC Douarnenez",
+        "code": 29100,
+        "commune": "Douarnenez",
+        "lieu": "MJC ",
+        "adresse": "11 boulevard Camille Réaud",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "02 98 92 10 07 / 02 98 87 72 41",
+        "site": "www.mervent.bzh",
+        "latitude": 48.09513,
+        "longitude": -4.334855,
+        "result_label": "11 Boulevard Camille Reaud 29100 Douarnenez",
+        "result_score": 0.84,
+        "result_type": "housenumber",
+        "result_id": "29046_0134_00011",
+        "result_housenumber": "11",
+        "result_name": "Boulevard Camille Reaud",
+        "result_street": null,
+        "result_postcode": 29100,
+        "result_city": "Douarnenez",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29046,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "Q0MTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.032978,
+          48.02584
+        ]
+      },
+      "properties": {
+        "organisme": "Brezhonegerien Leston'n",
+        "code": 29500,
+        "commune": "Ergué-Gabéric",
+        "lieu": "Athéna",
+        "adresse": "Route de Croas Spern",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "02 98 59 55 53 / 02 98 87 72 41",
+        "site": "www.mervent.bzh",
+        "latitude": 48.02584,
+        "longitude": -4.032978,
+        "result_label": "Rue de Croas Ar Gac 29500 Ergué-Gabéric",
+        "result_score": 0.6,
+        "result_type": "street",
+        "result_id": "29051_0130",
+        "result_housenumber": null,
+        "result_name": "Rue de Croas Ar Gac",
+        "result_street": null,
+        "result_postcode": 29500,
+        "result_city": "Ergué-Gabéric",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29051,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "UxNzA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.160185,
+          48.300944
+        ]
+      },
+      "properties": {
+        "organisme": "Nevezenn",
+        "code": 29590,
+        "commune": "Le Faou",
+        "courriel": "gourenarfaou@gmail.com",
+        "tel": "06 03 28 70 41",
+        "latitude": 48.300944,
+        "longitude": -4.160185,
+        "result_label": "Le Faou",
+        "result_score": 0.61,
+        "result_type": "municipality",
+        "result_id": "29053",
+        "result_housenumber": null,
+        "result_name": "Le Faou",
+        "result_street": null,
+        "result_postcode": 29590,
+        "result_city": "Le Faou",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29053,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "adresse": "Rue de Gaulle",
+        "lieu": "Salle Yves Nouvel"
+      },
+      "id": "M2MTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.99971,
+          47.870302
+        ]
+      },
+      "properties": {
+        "organisme": "Pôle associatif de Quinquis",
+        "code": 29170,
+        "commune": "Fouesnant",
+        "adresse": "Chemin du Quinquis",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "02 98 87 72 41",
+        "site": "www.mervent.bzh",
+        "latitude": 47.870369,
+        "longitude": -3.999882,
+        "result_label": "Chemin du Quinquis 29170 Fouesnant",
+        "result_score": 0.97,
+        "result_type": "street",
+        "result_id": "29058_0715",
+        "result_housenumber": null,
+        "result_name": "Chemin du Quinquis",
+        "result_street": null,
+        "result_postcode": 29170,
+        "result_city": "Fouesnant",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29058,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "M2NDM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.124711,
+          47.988026
+        ]
+      },
+      "properties": {
+        "organisme": "Mervent",
+        "code": 29000,
+        "commune": "Quimper",
+        "lieu": "Skol Diwan Penhars",
+        "chom": "1",
+        "adresse": "1 rue de Vendée",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "02 98 87 72 41",
+        "site": "www.mervent.bzh",
+        "latitude": 47.988026,
+        "longitude": -4.124711,
+        "result_label": "1 Rue de la Vendee 29000 Quimper",
+        "result_score": 0.88,
+        "result_type": "housenumber",
+        "result_id": "29232_6913_00001",
+        "result_housenumber": "1",
+        "result_name": "Rue de la Vendee",
+        "result_street": null,
+        "result_postcode": 29000,
+        "result_city": "Quimper",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29232,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "AwNTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.094108,
+          48.00286
+        ]
+      },
+      "properties": {
+        "organisme": "Maison pour Tous Kerfeunteun",
+        "code": 29000,
+        "commune": "Quimper",
+        "lieu": "_",
+        "adresse": "4 rue Teilhard de Chardin",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "02 98 95 46 25 / 02 98 87 72 41",
+        "site": "www.mervent.bzh",
+        "latitude": 48.00286,
+        "longitude": -4.094108,
+        "result_label": "4 Rue Teilhard de Chardin 29000 Quimper",
+        "result_score": 0.97,
+        "result_type": "housenumber",
+        "result_id": "29232_5130_00004",
+        "result_housenumber": "4",
+        "result_name": "Rue Teilhard de Chardin",
+        "result_street": null,
+        "result_postcode": 29000,
+        "result_city": "Quimper",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29232,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "Y1MzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.110432,
+          47.999456
+        ]
+      },
+      "properties": {
+        "organisme": "Maison de quartier du Moulin vert",
+        "code": 29000,
+        "commune": "Quimper",
+        "lieu": "_",
+        "adresse": "47 rue des Prés",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "02 98 55 79 79 / 02 98 87 72 41",
+        "site": "www.mervent.bzh",
+        "latitude": 48.008267,
+        "longitude": -4.117241,
+        "result_label": "Avenue des Pres 29000 Quimper",
+        "result_score": 0.74,
+        "result_type": "street",
+        "result_id": "29232_5440",
+        "result_housenumber": null,
+        "result_name": "Avenue des Pres",
+        "result_street": null,
+        "result_postcode": 29000,
+        "result_city": "Quimper",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29232,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "g5Mzg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.157723,
+          47.888314
+        ]
+      },
+      "properties": {
+        "organisme": "Kelc'h Keltiek Kombrid",
+        "code": 29120,
+        "commune": "Combrit",
+        "tel": "06 81 36 89 95 / 02 98 87 72 41",
+        "latitude": 47.888314,
+        "longitude": -4.157723,
+        "result_label": "Combrit",
+        "result_score": 0.81,
+        "result_type": "municipality",
+        "result_id": "29037",
+        "result_housenumber": null,
+        "result_name": "Combrit",
+        "result_street": null,
+        "result_postcode": 29120,
+        "result_city": "Combrit",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29037,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "site": "www.mervent.bzh",
+        "lieu": "_",
+        "adresse": "Rue de Croas Ver",
+        "courriel": "melestradurezh@mervent.bzh"
+      },
+      "id": "I5NjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.955679,
+          48.413536
+        ]
+      },
+      "properties": {
+        "organisme": "KLT",
+        "code": "29450",
+        "commune": "Commana",
+        "lieu": "_",
+        "tel": "02 98 63 98 79 / 06 82 77 10 10",
+        "courriel": "klt@wanadoo.fr",
+        "site": "www.klt.bzh",
+        "adresse": "_"
+      },
+      "id": "k5MTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.793716,
+          48.694586
+        ]
+      },
+      "properties": {
+        "organisme": "KLT",
+        "code": "29630",
+        "commune": "Plougasnou",
+        "tel": "02 98 63 98 79 / 06 82 77 10 10",
+        "site": "www.klt.bzh",
+        "courriel": "klt@wanadoo.fr"
+      },
+      "id": "U1NDE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.357911,
+          48.812092
+        ]
+      },
+      "properties": {
+        "organisme": "Ti ar Vro Treger ha Goueloù",
+        "code": 22660,
+        "commune": "Trévou-Tréguignec",
+        "lieu": "Centre culturel Saint Gwenolé, Maison des associations ",
+        "adresse": "Centre culturel Saint Gwenolé, place de l'Eglise",
+        "courriel": "brezhoneg@tiarvro22.bzh",
+        "tel": "02 96 49 80 55",
+        "site": "www.tiarvro22.bzh",
+        "latitude": 48.817921,
+        "longitude": -3.346073,
+        "result_label": "Coste Ar Ouern 22660 Trévou-Tréguignec",
+        "result_score": 0.54,
+        "result_type": "locality",
+        "result_id": "22379_B077",
+        "result_housenumber": null,
+        "result_name": "Coste Ar Ouern",
+        "result_street": null,
+        "result_postcode": 22660,
+        "result_city": "Trévou-Tréguignec",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22379,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "UwNzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -4.488033,
+          48.387316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "code": 29200,
+        "commune": "Brest",
+        "courriel": "degemer@sked.bzh",
+        "tel": "09 51 43 50 12",
+        "site": "sked.bzh",
+        "latitude": 48.406435,
+        "longitude": -4.497736,
+        "result_label": "Brest",
+        "result_score": 0.81,
+        "result_type": "municipality",
+        "result_id": "29019",
+        "result_housenumber": null,
+        "result_name": "Brest",
+        "result_street": null,
+        "result_postcode": 29200,
+        "result_city": "Brest",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29019,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "organisme": "Sked",
+        "adresse": "52 rue Emile Zola"
+      },
+      "id": "YwMTY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.041008,
+          48.461495
+        ]
+      },
+      "properties": {
+        "organisme": "Diwan Bro ar renk",
+        "code": 22100,
+        "commune": "Dinan",
+        "lieu": "Skol Diwan",
+        "adresse": "École Diwan, Cité Amiral de la Bretonière",
+        "courriel": "degemer@skolanemsav.bzh",
+        "tel": "02 99 38 75 83",
+        "site": "www.skolanemsav.bzh",
+        "latitude": 48.461495,
+        "longitude": -2.041008,
+        "result_label": "Cité de la Bretonnière 22100 Dinan",
+        "result_score": 0.78,
+        "result_type": "street",
+        "result_id": "22050_A005",
+        "result_housenumber": null,
+        "result_name": "Cité de la Bretonnière",
+        "result_street": null,
+        "result_postcode": 22100,
+        "result_city": "Dinan",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22050,
+        "result_oldcitycode": 22050,
+        "result_oldcity": "Dinan",
+        "result_district": null
+      },
+      "id": "M1NDM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.464585,
+          48.628002
+        ]
+      },
+      "properties": {
+        "organisme": "Telenn",
+        "code": 22430,
+        "commune": "Erquy",
+        "lieu": "Salle Jo Velly ",
+        "adresse": "rue Saint-Pierre",
+        "courriel": "contact@tiarvro-santbrieg.bzh",
+        "tel": "02 96 77 31 91",
+        "site": "www.tiarvro-santbrieg.bzh",
+        "latitude": 48.628014,
+        "longitude": -2.464427,
+        "result_label": "Rue Saint-Pierre 22430 Erquy",
+        "result_score": 0.95,
+        "result_type": "street",
+        "result_id": "22054_0351",
+        "result_housenumber": null,
+        "result_name": "Rue Saint-Pierre",
+        "result_street": null,
+        "result_postcode": 22430,
+        "result_city": "Erquy",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22054,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "I4NzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.345111,
+          48.674116
+        ]
+      },
+      "properties": {
+        "organisme": "Ti ar Vro Treger ha Goueloù",
+        "code": 22140,
+        "commune": "Cavan",
+        "lieu": "Ti ar Vro",
+        "adresse": "1 rue Jean Monnet",
+        "courriel": "brezhoneg@tiarvro22.bzh",
+        "tel": "02 96 49 80 55",
+        "site": "www.tiarvro22.bzh",
+        "latitude": 48.674116,
+        "longitude": -3.345111,
+        "result_label": "Rue Jean Monnet 22140 Cavan",
+        "result_score": 0.95,
+        "result_type": "street",
+        "result_id": "22034_0060",
+        "result_housenumber": null,
+        "result_name": "Rue Jean Monnet",
+        "result_street": null,
+        "result_postcode": 22140,
+        "result_city": "Cavan",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22034,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "c0MzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.904569,
+          48.400701
+        ]
+      },
+      "properties": {
+        "organisme": "Telenn",
+        "code": 22800,
+        "commune": "Quintin",
+        "lieu": "MJC",
+        "adresse": "MJC, 2 rue de la Fosse Malard",
+        "courriel": "contact@tiarvro-santbrieg.bzh",
+        "tel": "02 96 77 31 91",
+        "site": "www.tiarvro-santbrieg.bzh",
+        "latitude": 48.400701,
+        "longitude": -2.904569,
+        "result_label": "2 Rue de la Fosse Malard 22800 Quintin",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "22262_0305_00002",
+        "result_housenumber": "2",
+        "result_name": "Rue de la Fosse Malard",
+        "result_street": null,
+        "result_postcode": 22800,
+        "result_city": "Quintin",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22262,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "gwMDU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.518385,
+          48.468494
+        ]
+      },
+      "properties": {
+        "organisme": "Telenn",
+        "code": 22400,
+        "commune": "Lamballe",
+        "lieu": "MJC ",
+        "adresse": "MJC, 10 rue des Augustins",
+        "courriel": "contact@tiarvro-santbrieg.bzh",
+        "tel": "02 96 77 31 91",
+        "site": "www.tiarvro-santbrieg.bzh",
+        "latitude": 48.468494,
+        "longitude": -2.518385,
+        "result_label": "10 Rue des Augustins 22400 Lamballe-Armor",
+        "result_score": 0.82,
+        "result_type": "housenumber",
+        "result_id": "22093_0010_00010",
+        "result_housenumber": "10",
+        "result_name": "Rue des Augustins",
+        "result_street": null,
+        "result_postcode": 22400,
+        "result_city": "Lamballe-Armor",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22093,
+        "result_district": null
+      },
+      "id": "c4OTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.230908,
+          48.783209
+        ]
+      },
+      "properties": {
+        "organisme": "Ti ar Vro Treger ha Goueloù",
+        "code": 22500,
+        "commune": "Tréguier",
+        "adresse": "Salle des fêtes, rue de Minihy",
+        "courriel": "brezhoneg@tiarvro22.bzh",
+        "tel": "02 96 49 80 55",
+        "site": "www.tiarvro22.bzh",
+        "latitude": 48.783209,
+        "longitude": -3.230908,
+        "result_label": "Rue de Minihy 22220 Tréguier",
+        "result_score": 0.77,
+        "result_type": "street",
+        "result_id": "22362_0181",
+        "result_housenumber": null,
+        "result_name": "Rue de Minihy",
+        "result_street": null,
+        "result_postcode": 22220,
+        "result_city": "Tréguier",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22362,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "M1MjU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.460833,
+          48.73217
+        ]
+      },
+      "properties": {
+        "organisme": "Kreizenn Sevenadurel Lannuon",
+        "code": 22300,
+        "commune": "Lannion",
+        "lieu": "Keruhel",
+        "adresse": "Rue des Capucines",
+        "courriel": "brezhoneg@tiarvro22.bzh",
+        "tel": "02 96 49 80 55",
+        "site": "www.tiarvro22.bzh",
+        "latitude": 48.730263,
+        "longitude": -3.46065,
+        "result_label": "2 Rue de Kerampont 22300 Lannion",
+        "result_score": 0.97,
+        "result_type": "housenumber",
+        "result_id": "22113_2030_00002",
+        "result_housenumber": "2",
+        "result_name": "Rue de Kerampont",
+        "result_street": null,
+        "result_postcode": 22300,
+        "result_city": "Lannion",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22113,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "Y0Mzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.094461,
+          48.619492
+        ]
+      },
+      "properties": {
+        "organisme": "Mammenn",
+        "code": 22200,
+        "commune": "Pommerit-le-Vicomte",
+        "lieu": "Centre culturel Statijin",
+        "adresse": "-",
+        "courriel": "t.lepennec@orange.fr",
+        "tel": "02 96 74 25 11",
+        "latitude": 48.619492,
+        "longitude": -3.094461,
+        "result_label": "Parc Ar Lan 22200 Pommerit-le-Vicomte",
+        "result_score": 0.86,
+        "result_type": "street",
+        "result_id": "22248_i6ygr4",
+        "result_housenumber": null,
+        "result_name": "Parc Ar Lan",
+        "result_street": null,
+        "result_postcode": 22200,
+        "result_city": "Pommerit-le-Vicomte",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22248,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "site": "mammenn.canalblog.com"
+      },
+      "id": "Q4MzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.049788,
+          48.781033
+        ]
+      },
+      "properties": {
+        "organisme": "Ti ar Vro Treger ha Goueloù",
+        "code": 22500,
+        "commune": "Paimpol",
+        "lieu": "Médiathèque",
+        "adresse": "2 rue Henry Dunant",
+        "courriel": "brezhoneg@tiarvro22.bzh",
+        "tel": "02 96 49 80 55",
+        "site": "www.tiarvro22.bzh",
+        "latitude": 48.781033,
+        "longitude": -3.049788,
+        "result_label": "2 Rue Henri Dunant 22500 Paimpol",
+        "result_score": 0.85,
+        "result_type": "housenumber",
+        "result_id": "22162_0520_00002",
+        "result_housenumber": "2",
+        "result_name": "Rue Henri Dunant",
+        "result_street": null,
+        "result_postcode": 22500,
+        "result_city": "Paimpol",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22162,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "kxNjg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.445587,
+          48.800984
+        ]
+      },
+      "properties": {
+        "organisme": "Ti ar Vro Treger ha Goueloù",
+        "code": 22700,
+        "commune": "Perros-Guirec",
+        "lieu": "Maison des loisirs de la rade",
+        "adresse": "3 rue Pierre Loti",
+        "courriel": "brezhoneg@tiarvro22.bzh",
+        "tel": "02 96 49 80 55",
+        "site": "www.tiarvro22.bzh",
+        "latitude": 48.8007,
+        "longitude": -3.445393,
+        "result_label": "Rue Pierre Loti 22700 Perros-Guirec",
+        "result_score": 0.9,
+        "result_type": "street",
+        "result_id": "22168_0970",
+        "result_housenumber": null,
+        "result_name": "Rue Pierre Loti",
+        "result_street": null,
+        "result_postcode": 22700,
+        "result_city": "Perros-Guirec",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22168,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "czMjc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.444423,
+          48.692415
+        ]
+      },
+      "properties": {
+        "organisme": "Brezhoneg ar Vro",
+        "code": 22300,
+        "commune": "Ploubezre",
+        "courriel": "daniel.giraudon@sfr.fr",
+        "tel": "02 96 37 04 90",
+        "latitude": 48.692415,
+        "longitude": -3.444423,
+        "result_label": "Ploubezre",
+        "result_score": 0.83,
+        "result_type": "municipality",
+        "result_id": "22211",
+        "result_housenumber": null,
+        "result_name": "Ploubezre",
+        "result_street": null,
+        "result_postcode": 22300,
+        "result_city": "Ploubezre",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22211,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "lieu": "Salle Curie"
+      },
+      "id": "YyMjI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.795616,
+          48.48985
+        ]
+      },
+      "properties": {
+        "organisme": "Nevez Amzer",
+        "code": 22440,
+        "commune": "Ploufragan",
+        "lieu": "Salle Glenmor",
+        "adresse": "Place de l'Iroise",
+        "courriel": "nevezamzer22440@gmail.com / contact@tiarvro-santbrieg.bzh",
+        "tel": "06 95 60 69 75 / 02 96 77 31 91",
+        "site": "www.tiarvro-santbrieg.bzh",
+        "latitude": 48.48985,
+        "longitude": -2.795616,
+        "result_label": "Place d?Iroise 22440 Ploufragan",
+        "result_score": 0.82,
+        "result_type": "street",
+        "result_id": "22215_0925",
+        "result_housenumber": null,
+        "result_name": "Place d?Iroise",
+        "result_street": null,
+        "result_postcode": 22440,
+        "result_city": "Ploufragan",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22215,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "UyMjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.930024,
+          48.675958
+        ]
+      },
+      "properties": {
+        "organisme": "Kalon Plouha",
+        "code": 22580,
+        "commune": "Plouha",
+        "lieu": "Salle Calmette",
+        "courriel": "brezhoneg@tiarvro22.bzh / kalon.plouha@wanadoo.fr",
+        "tel": "02 96 22 49 79",
+        "site": "kalonplouha.bzh",
+        "latitude": 48.675788,
+        "longitude": -2.930041,
+        "result_label": "7 Avenue Laennec 22580 Plouha",
+        "result_score": 0.96,
+        "result_type": "housenumber",
+        "result_id": "22222_b059_00007",
+        "result_housenumber": "7",
+        "result_name": "Avenue Laennec",
+        "result_street": null,
+        "result_postcode": 22580,
+        "result_city": "Plouha",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22222,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "M2NTY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.844086,
+          48.625194
+        ]
+      },
+      "properties": {
+        "organisme": "Telenn",
+        "commune": "Binic-Etables-sur-Mer",
+        "courriel": "contact@tiarvro-santbrieg.bzh",
+        "tel": "02 96 77 31 91",
+        "site": "www.tiarvro-santbrieg.bzh",
+        "result_housenumber": null,
+        "result_street": null,
+        "result_district": null,
+        "code": "22520",
+        "adresse": "2 av. de Gaulle"
+      },
+      "id": "c2NTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.767707,
+          48.505836
+        ]
+      },
+      "properties": {
+        "code": 22000,
+        "commune": "Saint-Brieuc",
+        "lieu": "Centre culturel Abherve",
+        "adresse": "15 rue François Menez",
+        "courriel": "kreizenn.abherve@orange.fr",
+        "tel": "06 03 40 78 44",
+        "site": "kreizennabherve.jimdo.com",
+        "latitude": 48.505836,
+        "longitude": -2.767707,
+        "result_label": "15 Rue François Menez 22000 Saint-Brieuc",
+        "result_score": 0.97,
+        "result_type": "housenumber",
+        "result_id": "22278_1780_00015",
+        "result_housenumber": "15",
+        "result_name": "Rue François Menez",
+        "result_street": null,
+        "result_postcode": 22000,
+        "result_city": "Saint-Brieuc",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22278,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "E0MDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.753049,
+          48.522702
+        ]
+      },
+      "properties": {
+        "organisme": "Telenn",
+        "code": 22000,
+        "commune": "Saint-Brieuc",
+        "lieu": "Ti ar Vro",
+        "adresse": "138 rue du Légué",
+        "courriel": "contact@tiarvro-santbrieg.bzh",
+        "tel": "02 96 77 31 91",
+        "site": "www.tiarvro-santbrieg.bzh",
+        "latitude": 48.522702,
+        "longitude": -2.753049,
+        "result_label": "138 Rue du Légué 22000 Saint-Brieuc",
+        "result_score": 0.97,
+        "result_type": "housenumber",
+        "result_id": "22278_2770_00138",
+        "result_housenumber": "138",
+        "result_name": "Rue du Légué",
+        "result_street": null,
+        "result_postcode": 22000,
+        "result_city": "Saint-Brieuc",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22278,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "YyMDE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.51124,
+          48.826577
+        ]
+      },
+      "properties": {
+        "organisme": "Nevez Amzer",
+        "code": 22730,
+        "commune": "Trégastel",
+        "lieu": "Ancien presbytère",
+        "adresse": "Rue du Calvaire",
+        "courriel": "brezhoneg@tiarvro22.bzh",
+        "tel": "02 96 49 80 55",
+        "site": "www.tiarvro22.bzh",
+        "latitude": 48.826577,
+        "longitude": -3.51124,
+        "result_label": "Place Sainte-Anne 22730 Trégastel",
+        "result_score": 0.96,
+        "result_type": "street",
+        "result_id": "22353_0005",
+        "result_housenumber": null,
+        "result_name": "Place Sainte-Anne",
+        "result_street": null,
+        "result_postcode": 22730,
+        "result_city": "Trégastel",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22353,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "k2Mzg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.744522,
+          48.444689
+        ]
+      },
+      "properties": {
+        "organisme": "Telenn",
+        "code": "22960",
+        "commune": "Plédran",
+        "lieu": "Maison des associations",
+        "courriel": "contact@tiarvro-santbrieg.bzh",
+        "tel": "02 96 77 31 91",
+        "site": "www.tiarvro-santbrieg.bzh",
+        "adresse": "Rue des Écoles"
+      },
+      "id": "E1ODc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.315983,
+          48.236794
+        ]
+      },
+      "properties": {
+        "organisme": "Ar Fiselerezh",
+        "code": "22210",
+        "commune": "Rostrenen",
+        "adresse": "48 rue Olivier Perrin",
+        "courriel": "lafiselerie@gmail.com",
+        "tel": "06 51 00 22 95",
+        "site": "www.fisel.org"
+      },
+      "id": "AzMjI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.639908,
+          48.647881
+        ]
+      },
+      "properties": {
+        "organisme": "Ti ar Vro Treger ha Goueloù",
+        "commune": "Plestin-les-Grèves",
+        "lieu": "Office culturel municipal",
+        "tel": "02 96 49 80 55",
+        "postel": " ",
+        "courriel": " brezhoneg@tiarvro22.bzh",
+        "site": "www.tiarvro22.bzh",
+        "code": "22310",
+        "adresse": "7 place d'Auvelais"
+      },
+      "id": "k1MDg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.300447,
+          48.625307
+        ]
+      },
+      "properties": {
+        "organisme": "Ti ar Vro Treger ha Goueloù",
+        "code": "22140",
+        "tel": "02 96 49 80 55",
+        "site": "www.tiarvro22.bzh",
+        "commune": "Bégard",
+        "lieu": "MJC",
+        "adresse": "MJC, 17 rue de Guingamp",
+        "courriel": "brezhoneg@tiarvro22.bzh"
+      },
+      "id": "A0Mjg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.838743,
+          48.65616
+        ]
+      },
+      "properties": {
+        "organisme": "Telenn",
+        "code": "22410",
+        "tel": "02 96 77 31 91",
+        "site": "www.tiarvro-santbrieg.bzh",
+        "commune": "Saint-Quay-Portrieux",
+        "lieu": "Palais des Congrès",
+        "adresse": "10 boulevard de Gaulle",
+        "courriel": "www.tiarvro-santbrieg.bzh"
+      },
+      "id": "EyNDY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.588431,
+          48.516192
+        ]
+      },
+      "properties": {
+        "organisme": "KLT",
+        "code": "29650",
+        "tel": "02 98 63 98 79 / 06 82 77 10 10",
+        "site": "www.klt.bzh",
+        "commune": "Guerleskin",
+        "lieu": "_",
+        "adresse": "_",
+        "courriel": "klt@wanadoo.fr"
+      },
+      "id": "Q3Mjk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.628107,
+          47.811102
+        ]
+      },
+      "properties": {
+        "organisme": "Pregomp asambles",
+        "code": 29350,
+        "commune": "Moëlan-sur-Mer",
+        "lieu": "Centre social et culturel Ellipse",
+        "adresse": "Rue Pont al Laer",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "06 83 80 63 74 / 02 98 87 72 41",
+        "site": "www.mervent.bzh",
+        "latitude": 47.811102,
+        "longitude": -3.628107,
+        "result_label": "Rue de Pont Ar Laer 29350 Moëlan-sur-Mer",
+        "result_score": 0.89,
+        "result_type": "street",
+        "result_id": "29150_0675",
+        "result_housenumber": null,
+        "result_name": "Rue de Pont Ar Laer",
+        "result_street": null,
+        "result_postcode": 29350,
+        "result_city": "Moëlan-sur-Mer",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29150,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "Q0MTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.373589,
+          47.81523
+        ]
+      },
+      "properties": {
+        "organisme": "Amicale Laïque",
+        "code": "29760",
+        "commune": "Penmarc'h",
+        "lieu": "Salle amicale laïque",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "06 70 40 79 30 / 02 98 87 72 41",
+        "site": "www.mervent.bzh",
+        "latitude": 47.815125,
+        "longitude": -4.373242,
+        "result_label": "89 Place Jules Ferry 29760 Penmarch",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "29158_0418_00089",
+        "result_housenumber": "89",
+        "result_name": "Place Jules Ferry",
+        "result_street": null,
+        "result_postcode": 29760,
+        "result_city": "Penmarch",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29158,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "adresse": "89 place Jules Ferry"
+      },
+      "id": "kwMjk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.283397,
+          47.902773
+        ]
+      },
+      "properties": {
+        "organisme": "Dihun",
+        "code": 29710,
+        "commune": "Plonéour-Lanvern",
+        "lieu": "_",
+        "adresse": "Place Amiral Ronarc'h",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "02 98 87 68 41 / 02 98 87 72 41",
+        "site": "www.mervent.bzh",
+        "latitude": 47.902773,
+        "longitude": -4.283397,
+        "result_label": "Place Amiral Ronarc?H 29720 Plonéour-Lanvern",
+        "result_score": 0.87,
+        "result_type": "street",
+        "result_id": "29174_0025",
+        "result_housenumber": null,
+        "result_name": "Place Amiral Ronarc?H",
+        "result_street": null,
+        "result_postcode": 29720,
+        "result_city": "Plonéour-Lanvern",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29174,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "M0Njg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.229425,
+          48.179398
+        ]
+      },
+      "properties": {
+        "organisme": "Bagad Eostiged ar Menez",
+        "code": 29550,
+        "commune": "Plomodiern",
+        "lieu": "Salle Jean Mignon",
+        "adresse": "Rue de la Gare",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "06 68 82 95 31 / 02 98 87 72 41",
+        "site": "www.mervent.bzh",
+        "latitude": 48.179398,
+        "longitude": -4.229425,
+        "result_label": "Rue de la Gare 29550 Plomodiern",
+        "result_score": 0.96,
+        "result_type": "street",
+        "result_id": "29172_0100",
+        "result_housenumber": null,
+        "result_name": "Rue de la Gare",
+        "result_street": null,
+        "result_postcode": 29550,
+        "result_city": "Plomodiern",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29172,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "M1MzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.413757,
+          48.337995
+        ]
+      },
+      "properties": {
+        "organisme": "An Daoulamm",
+        "code": 29470,
+        "commune": "Plougastel-Daoulas",
+        "courriel": "degemer@sked.bzh",
+        "tel": "02 98 40 26 86 / 02 98 80 26 71",
+        "site": "sked.bzh",
+        "latitude": 48.337844,
+        "longitude": -4.415162,
+        "result_label": "Route de Lauberlac?H 29470 Plougastel-Daoulas",
+        "result_score": 0.85,
+        "result_type": "street",
+        "result_id": "29189_0743",
+        "result_housenumber": null,
+        "result_name": "Route de Lauberlac?H",
+        "result_street": null,
+        "result_postcode": 29470,
+        "result_city": "Plougastel-Daoulas",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29189,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "adresse": "Rue Camille Claudel",
+        "lieu": "Salle Charles Le Gall"
+      },
+      "id": "E1ODA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.146903,
+          47.945306
+        ]
+      },
+      "properties": {
+        "organisme": "Brezhoneg e Ploveilh",
+        "code": 29700,
+        "commune": "Plomelin",
+        "lech": " ",
+        "lieu": "Salle Ti Michel ",
+        "adresse": "Bourg",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "06 52 77 04 01 / 02 98 87 72 41 ",
+        "site": "www.mervent.bzh",
+        "latitude": 47.945306,
+        "longitude": -4.146903,
+        "result_label": "Plomelin",
+        "result_score": 0.65,
+        "result_type": "municipality",
+        "result_id": "29170",
+        "result_housenumber": null,
+        "result_name": "Plomelin",
+        "result_street": null,
+        "result_postcode": 29700,
+        "result_city": "Plomelin",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29170,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "k0NDk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.090042,
+          48.254455
+        ]
+      },
+      "properties": {
+        "organisme": "Brezhoneg e bro Rouzig",
+        "code": 29590,
+        "commune": "Pont-de-Buis-lès-Quimerc'h",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "06 16 66 18 08 / 02 98 87 72 41",
+        "site": "www.mervent.bzh",
+        "latitude": 48.251078,
+        "longitude": -4.130344,
+        "result_label": "Lieu-Dit Ty Neac?H 29590 Pont-de-Buis-lès-Quimerch",
+        "result_score": 0.62,
+        "result_type": "street",
+        "result_id": "29302_B325",
+        "result_housenumber": null,
+        "result_name": "Lieu-Dit Ty Neac?H",
+        "result_street": null,
+        "result_postcode": 29590,
+        "result_city": "Pont-de-Buis-lès-Quimerch",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29302,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "adresse": "3 esplanade de Gaulle"
+      },
+      "id": "czOTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.889418,
+          48.439622
+        ]
+      },
+      "properties": {
+        "organisme": "KLT",
+        "code": "29410",
+        "commune": "Plounéour-Ménez",
+        "lieu": "_",
+        "courriel": "klt@wanadoo.fr",
+        "tel": "02 98 63 98 79 / 06 82 77 10 10",
+        "site": "www.klt.bzh",
+        "adresse": "_"
+      },
+      "id": "YzMTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.828564,
+          48.581036
+        ]
+      },
+      "properties": {
+        "organisme": "KLT",
+        "code": "29600",
+        "lieu": "_",
+        "courriel": "klt@wanadoo.fr",
+        "commune": "Morlaix",
+        "adresse": "_",
+        "tel": "02 98 63 98 79 / 06 82 77 10 10",
+        "site": "www.klt.bzh"
+      },
+      "id": "MzODk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.715238,
+          48.341389
+        ]
+      },
+      "properties": {
+        "organisme": "Marc'h Mor",
+        "code": "29217",
+        "commune": "Plougonvelin",
+        "courriel": "rene.lemoign@orange.fr ",
+        "tel": "06 71 96 01 87 / 02 98 80 26 71",
+        "site": "sked.bzh",
+        "adresse": "4 rue de Bertheaume",
+        "lieu": "Maison des associations"
+      },
+      "id": "ADPG5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.788073,
+          48.535221
+        ]
+      },
+      "properties": {
+        "organisme": "KLT",
+        "code": "29600",
+        "commune": "Plourin-lès-Morlaix",
+        "lieu": "_",
+        "adresse": "_",
+        "courriel": "klt@wanadoo.fr",
+        "tel": "02 98 63 98 79 / 06 82 77 10 10",
+        "site": "www.klt.bzh"
+      },
+      "id": "A2MzY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.152749,
+          48.056455
+        ]
+      },
+      "properties": {
+        "organisme": "Skol an Emsav",
+        "code": "35370",
+        "commune": "Argentré-du-Plessis",
+        "courriel": "degemer@skolanemsav.bzh",
+        "tel": "02 99 38 75 83",
+        "site": "www.skolanemsav.bzh",
+        "adresse": "-",
+        "lieu": "Salle Bréhat ou salle Coubertin"
+      },
+      "id": "gzODg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629047,
+          46.376307
+        ]
+      },
+      "properties": {
+        "organisme": "Les Breizh du Lac",
+        "code": "74500",
+        "commune": "Saint-Paul-en-Chablais",
+        "lieu": "à distance, par visio",
+        "adresse": "_",
+        "courriel": "philip.domergue@gmail.com"
+      },
+      "id": "YyOTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.132447,
+          48.393308
+        ]
+      },
+      "properties": {
+        "organisme": "Ti ar Vro Landerne-Daoulaz",
+        "code": "29450",
+        "commune": "Le Tréhou",
+        "lieu": "Café les Orties",
+        "courriel": "degemer@tiarvrolandernedaoulaz.bzh",
+        "tel": "09 73 65 35 24 / 07 67 17 58 29",
+        "site": "tiarvrolandernedaoulaz.bzh",
+        "adresse": "_"
+      },
+      "id": "gyMzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.245701,
+          48.483106
+        ]
+      },
+      "properties": {
+        "organisme": "Ti ar Vro Landerne-Daoulaz",
+        "code": "29800",
+        "commune": "Plouédern",
+        "lieu": "_",
+        "courriel": "degemer@tiarvrolandernedaoulaz.bzh",
+        "tel": "09 73 65 35 24",
+        "site": "tiarvrolandernedaoulaz.bzh",
+        "adresse": "_"
+      },
+      "id": "k2MzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.417006,
+          47.787556
+        ]
+      },
+      "properties": {
+        "organisme": "Spered Kewen",
+        "code": "56530",
+        "commune": "Quéven",
+        "lieu": "Espace Saint-Eloi",
+        "courriel": "spered.kewenn@gmail.com",
+        "adresse": "_",
+        "tel": "02 97 05 08 22",
+        "site": "_"
+      },
+      "id": "czNjE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.188524,
+          48.473234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "organisme": "Herborescence",
+        "code": "22390",
+        "commune": "Bourbriac",
+        "courriel": "herborescence@live.fr",
+        "lieu": "Cours du soir et groupes de conversation hebdomadaires"
+      },
+      "id": "EyNDE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.330617,
+          48.428432
+        ]
+      },
+      "properties": {
+        "organisme": "Herborescence",
+        "code": "22160",
+        "commune": "Bulat-Pestivien",
+        "lieu": "_",
+        "adresse": "_",
+        "courriel": "herborescence@live.fr",
+        "tel": "_",
+        "site": "_"
+      },
+      "id": "c5NzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.16402,
+          48.313427
+        ]
+      },
+      "properties": {
+        "organisme": "Cercle celtique Blés d'or",
+        "code": "22480",
+        "commune": "Saint-Nicolas-du-Pélem",
+        "lieu": "_",
+        "adresse": "_",
+        "courriel": "ccsaintnicolas@gmail.com",
+        "tel": "02 96 24 04 63",
+        "site": "https://www.facebook.com/kevrenn.bropelem"
+      },
+      "id": "kwMTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.74711,
+          48.363577
+        ]
+      },
+      "properties": {
+        "organisme": "Yezhoù hent romaneg",
+        "code": "29690",
+        "commune": "Huelgoat",
+        "lieu": "_",
+        "adresse": "_",
+        "courriel": "alainyves.lebihan@gmail.com",
+        "tel": "06 89 89 90 30",
+        "site": "https://yezhouhentromaneg.wordpress.com/ "
+      },
+      "id": "I4ODU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.794403,
+          48.480091
+        ]
+      },
+      "properties": {
+        "organisme": "Yezhoù hent romaneg",
+        "code": "29600",
+        "commune": "Le Cloître-Saint-Thégonnec",
+        "lieu": "_",
+        "adresse": "_",
+        "courriel": "alainyves.lebihan@gmail.com",
+        "tel": "06 89 89 90 30",
+        "site": "https://yezhouhentromaneg.wordpress.com/ "
+      },
+      "id": "AzODc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.749599,
+          48.403252
+        ]
+      },
+      "properties": {
+        "organisme": "Yezhoù hent romaneg",
+        "code": "29690",
+        "commune": "Berrien",
+        "lieu": "_",
+        "adresse": "_",
+        "courriel": "alainyves.lebihan@gmail.com",
+        "tel": "06 89 89 90 30",
+        "site": "https://yezhouhentromaneg.wordpress.com/"
+      },
+      "id": "g1Mjk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.536439,
+          47.958893
+        ]
+      },
+      "properties": {
+        "organisme": "Livioù Kerien",
+        "code": "29310",
+        "commune": "Querrien",
+        "lieu": "initiation par des sketchs et des chants",
+        "adresse": "_",
+        "tel": "02 98 71 36 83",
+        "site": "_",
+        "courriel": "livioukerien@outlook.fr"
+      },
+      "id": "cxMzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.729215,
+          48.226159
+        ]
+      },
+      "properties": {
+        "organisme": "Oaled Landelo",
+        "code": "29560",
+        "commune": "Landeleau",
+        "lieu": "Presbital kozh",
+        "adresse": "3 rue de l'Aulne",
+        "courriel": "oaled-landelo@orange.fr",
+        "tel": "06 52 08 63 52",
+        "site": "_"
+      },
+      "id": "c1NDQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.551991,
+          47.245037
+        ]
+      },
+      "properties": {
+        "organisme": "Université de Nantes",
+        "code": "44000",
+        "commune": "Nantes",
+        "lieu": "Campus Tertre",
+        "adresse": "_",
+        "tel": "02 40 04 45 51",
+        "courriel": "_",
+        "site": "https://pratiquerleslangues.univ-nantes.fr/les-formations/breton/campus-soir-cours-de-breton"
+      },
+      "id": "g5NzI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.982016,
+          48.200479
+        ]
+      },
+      "properties": {
+        "organisme": "Breizh Nevez",
+        "code": "22530",
+        "commune": "MÛR DE BRETAGNE",
+        "lieu": "Château",
+        "courriel": "cercle.murbzh@gmail.com",
+        "tel": "06 29 51 37 11 / 06 89 55 85 56",
+        "site": "www.tiarvrobropondi.com",
+        "adresse": "2 rue Léon Le Cerf"
+      },
+      "id": "c4MzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.33993,
+          47.809811
+        ]
+      },
+      "properties": {
+        "organisme": "Tarzh an Deiz",
+        "code": "56840",
+        "commune": "Caudan",
+        "lieu": "Ti Tarzh an deiz",
+        "adresse": "19 rue des Chênes",
+        "courriel": "degemer@tarzhandeiz.bzh",
+        "site": "tarzhandeiz.wordpress.com",
+        "tel": "07 89 66 16 84"
+      },
+      "id": "U3NjI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.341217,
+          47.762349
+        ]
+      },
+      "properties": {
+        "organisme": "Div Yezh Lannarstêr",
+        "code": "56600",
+        "commune": "Lanester",
+        "lieu": "(priorité aux parents d'élèves en école bilingue)",
+        "adresse": "_",
+        "courriel": "demat@divyezh-lann-ar-ster.org",
+        "tel": "06 11 72 16 39",
+        "site": "https://www.facebook.com/divyezh.lanester/"
+      },
+      "id": "kwOTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.835932,
+          47.886938
+        ]
+      },
+      "properties": {
+        "organisme": "Kevrenn Bro Logunec'h",
+        "code": "56500",
+        "commune": "Locminé",
+        "lieu": "Maison des Associations",
+        "courriel": "kevrennbrologunech@gmail.com",
+        "tel": "06 20 52 77 41 / 06 61 11 59 70",
+        "adresse": "Place Anne de Bretagne",
+        "site": "www.tiarvrobropondi.com"
+      },
+      "id": "E2MzY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.110118,
+          47.979207
+        ]
+      },
+      "properties": {
+        "organisme": "Bugale Melrand et Ti ar Vro Bro Pondi",
+        "code": "56310",
+        "commune": "Melrand",
+        "adresse": "Rue Guy Kervinio",
+        "courriel": "tiarvro.bropondi@gmail.com",
+        "tel": "07 68 39 89 19",
+        "site": "www.tiarvrobropondi.com",
+        "lieu": "Local de Bugale Melrand"
+      },
+      "id": "cyMTQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.333921,
+          47.91266
+        ]
+      },
+      "properties": {
+        "organisme": "Skol an Amzer da zont",
+        "code": "56240",
+        "commune": "Plouay",
+        "lieu": "_",
+        "adresse": "_",
+        "courriel": "skolanamzer.ploue@gmail.com",
+        "tel": "06 16 86 55 03",
+        "site": "_"
+      },
+      "id": "IxNzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.155265,
+          47.345627
+        ]
+      },
+      "properties": {
+        "organisme": "Université du Temps libre",
+        "code": "56360",
+        "commune": "Le Palais",
+        "lieu": "Salle du Ponant",
+        "adresse": "_",
+        "courriel": "utl.belle.ile@gmail.com",
+        "tel": "06 01 74 27 11",
+        "site": "_"
+      },
+      "id": "Q2NTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.554638,
+          47.469414
+        ]
+      },
+      "properties": {
+        "organisme": "Association des Bretons d'Anjou",
+        "code": "49000",
+        "commune": "Angers",
+        "lieu": "_",
+        "adresse": "25 bis rue des Banchais",
+        "courriel": "bretons49kba@gmail.com",
+        "tel": "02 41 21 52 00",
+        "site": "http://bretonsdanjou.free.fr/"
+      },
+      "id": "kwNzY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.559101,
+          44.768674
+        ]
+      },
+      "properties": {
+        "organisme": "Amicale des Bretons de Bordeaux",
+        "code": "33140",
+        "commune": "Villenave-d'Ornon",
+        "lieu": "_",
+        "adresse": "363 chemin de Leysotte",
+        "courriel": "infosarmor@gmail.com",
+        "tel": "07 49 53 72 62",
+        "site": "http://www.asso-armor33.org/"
+      },
+      "id": "QwMDU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.669651,
+          47.349291
+        ]
+      },
+      "properties": {
+        "organisme": "Breizh Izeliz",
+        "code": "37300",
+        "commune": "Joué-lès-Tours",
+        "adresse": "2 rue du Clos Neuf",
+        "lieu": "Espace Clos Neuf ",
+        "courriel": "breizh.izeliz@gmail.com ",
+        "tel": "06 11 90 77 30",
+        "site": "http://breizhizeliz.jimdo.com/"
+      },
+      "id": "U2Nzg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.829521,
+          45.750756
+        ]
+      },
+      "properties": {
+        "organisme": "Les Bretons de Lyon",
+        "code": "69008",
+        "commune": "Lyon",
+        "lieu": "_",
+        "adresse": "13 rue Fonlupt",
+        "courriel": "bureau@bretons-de-lyon.org",
+        "tel": "_",
+        "site": "www.bretons-de-lyon.org"
+      },
+      "id": "c0MTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.463572,
+          46.32186
+        ]
+      },
+      "properties": {
+        "organisme": "Kevrenn Bro Glaz",
+        "code": "79000",
+        "commune": "Niort",
+        "lieu": "Centre sociculturel de Saint-Florent",
+        "adresse": "_",
+        "courriel": "demat@kevrenn-niort.fr",
+        "site": "http://kevrenn-niort.fr/ ",
+        "tel": "_"
+      },
+      "id": "gzNDQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.740204,
+          47.354292
+        ]
+      },
+      "properties": {
+        "organisme": "Touraine Inter-Age université",
+        "code": "37550",
+        "commune": "Saint-Avertin",
+        "adresse": "18 rue de l'Oiselet",
+        "lieu": "_",
+        "courriel": "tours.inter.ages@orange.fr",
+        "tel": "02 47 25 10 98",
+        "site": "http://uiat.org/page/home"
+      },
+      "id": "g3Mzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.316742,
+          48.84252
+        ]
+      },
+      "properties": {
+        "organisme": "Mission bretonne",
+        "code": "75014",
+        "commune": "Paris",
+        "adresse": "22 rue Delambre",
+        "lieu": "_",
+        "courriel": "contact@missionbretonne.bzh",
+        "tel": "01 43 35 26 41",
+        "site": "http://www.missionbretonne.bzh/"
+      },
+      "id": "M4MjI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38781,
+          48.702744
+        ]
+      },
+      "properties": {
+        "organisme": "Cercle celtique Dalc'h mat",
+        "code": "91200",
+        "commune": "Athis-Mons",
+        "lieu": "Mairie",
+        "adresse": "Place de Gaulle",
+        "courriel": "contact.dalchmat@yahoo.fr",
+        "tel": "06 01 93 27 53",
+        "site": "https://www.facebook.com/profile.php?id=100063340954076"
+      },
+      "id": "k3MTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.181301,
+          48.874764
+        ]
+      },
+      "properties": {
+        "organisme": "Amicale des Bretons de Rueil-Malmaison",
+        "commune": "Rueil-Malmaison",
+        "code": "92500",
+        "adresse": "10-12 rue des Chèvremonts",
+        "lieu": "_",
+        "courriel": "info@bretons-de-rueil.com",
+        "tel": "01 69 96 64 95",
+        "site": "http://www.bretons-de-rueil.com/"
+      },
+      "id": "YwMzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.345581,
+          48.677927
+        ]
+      },
+      "properties": {
+        "organisme": "MJC Savigny-sur-Orge",
+        "code": "91600",
+        "commune": "Savigny-sur-Orge",
+        "adresse": "12 Grande rue",
+        "lieu": "_",
+        "courriel": "mjc@savigny.org",
+        "tel": "01 69 96 64 95",
+        "site": "https://www.mjcsavigny.net/"
+      },
+      "id": "M0NDE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.101135,
+          47.111729
+        ]
+      },
+      "properties": {
+        "organisme": "Kelc'h Keltiek Pornizh",
+        "code": "44210",
+        "commune": "Pornic",
+        "lieu": "Maison des associations",
+        "adresse": "4 rue de Lorraine",
+        "courriel": "marietherese.gorny@laposte.net",
+        "tel": "07 77 06 72 21"
+      },
+      "id": "k1Njc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.686913,
+          48.508758
+        ]
+      },
+      "properties": {
+        "organisme": "Skol an Noz",
+        "code": "29830",
+        "commune": "Plourin",
+        "adresse": "_",
+        "courriel": "strollad.plougin@gmail.com",
+        "tel": "06 76 47 38 66",
+        "site": "_",
+        "lieu": "Salle polyvalente"
+      },
+      "id": "A2MTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.180027,
+          48.227103
+        ]
+      },
+      "properties": {
+        "code": "22570",
+        "commune": "Gouarec",
+        "courriel": "tiarvro.bropondi@gmail.com",
+        "site": "www.tiarvrobropondi.com",
+        "tel": "07 68 39 89 19",
+        "lieu": "Salle polyvalente",
+        "organisme": "Ti ar Vro Bro Pondi"
+      },
+      "id": "9tqiA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.194374,
+          48.075269
+        ]
+      },
+      "properties": {
+        "adresse": "Rue des Écoles",
+        "code": "29180",
+        "commune": "Plogonnec",
+        "courriel": "ybjak@orange.fr / jumelageplogonegllandysul@gmail.com",
+        "lieu": "Foyer communal",
+        "organisme": "Kuzul-Gevellañ Plogoneg Llandysul",
+        "tel": "02 98 91 89 32",
+        "site": "-"
+      },
+      "id": "cxMzk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.095897,
+          48.457783
+        ]
+      },
+      "properties": {
+        "adresse": "-",
+        "code": "29242",
+        "commune": "Ouessant",
+        "courriel": "bibliotheque.eusa@orange.fr",
+        "lieu": "Médiathèque",
+        "organisme": "Médiathèque d'Ouessant",
+        "site": "-",
+        "tel": "02 98 48 86 84"
+      },
+      "id": "E0NDQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.461552,
+          47.859649
+        ]
+      },
+      "properties": {
+        "adresse": "-",
+        "code": "29300",
+        "commune": "Rédéné",
+        "courriel": "elemoing@gmail.com",
+        "lieu": "Salle Ty-Douar",
+        "organisme": "Amicale laïque de Rédéné",
+        "site": "-",
+        "tel": "-"
+      },
+      "id": "gzNzI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.312421,
+          47.710714
+        ]
+      },
+      "properties": {
+        "adresse": "-",
+        "code": "56670",
+        "commune": "Riantec",
+        "courriel": "skoazell.rianteg@gmail.com",
+        "lieu": "-",
+        "organisme": "Diwan Rianteg",
+        "tel": "06 84 89 62 61",
+        "site": "-"
+      },
+      "id": "kyNzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.124996,
+          48.802567
+        ]
+      },
+      "properties": {
+        "adresse": "-",
+        "code": "78000",
+        "commune": "Versailles",
+        "courriel": "contact.bretonsdeversailles@free.fr",
+        "lieu": "-",
+        "organisme": "Amicale des Bretons de Versailles et des environs",
+        "tel": "06 14 48 87 34 / 06 59 39 65 81",
+        "site": "http://bretonsdeversailles.free.fr/"
+      },
+      "id": "kyNDY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.426361,
+          48.401856
+        ]
+      },
+      "properties": {
+        "adresse": "-",
+        "code": "22160",
+        "commune": "CALLAC",
+        "courriel": "ronantremel@wanadoo.fr",
+        "lieu": "Salle des fêtes",
+        "organisme": "Eostiñ spered ar yezh",
+        "tel": "02 96 45 94 38"
+      },
+      "id": "cwNTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.953606,
+          47.704015
+        ]
+      },
+      "properties": {
+        "adresse": "-",
+        "code": "56400",
+        "commune": "Sainte-Anne-d'Auray",
+        "courriel": "ksk@ksk.bzh",
+        "lieu": "Médiathèque",
+        "organisme": "Kerlenn Sten Kidna",
+        "tel": "02 97 29 16 56",
+        "site": "http://www.kerlenn-sten-kidna.bzh/"
+      },
+      "id": "gwNzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.465701,
+          47.909964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "adresse": "1 rue du Rocher",
+        "code": "56800",
+        "commune": "Guillac",
+        "courriel": "cafeguillac@gmail.com",
+        "lieu": "Café de la Gare",
+        "organisme": "Ça bouge à Guillac",
+        "tel": "06 83 04 17 81",
+        "site": "www.cafedelaforge.com"
+      },
+      "id": "I3NjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.213903,
+          48.123591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "adresse": "-",
+        "code": "35370",
+        "commune": "Vitré",
+        "courriel": "hentarfurnez35@gmail.com",
+        "lieu": "-",
+        "organisme": "Hent ar furnez",
+        "tel": "06 84 47 04 20",
+        "site": "https://fr-fr.facebook.com/hentarfurnez35/"
+      },
+      "id": "MyMDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.080922,
+          47.65238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "adresse": "18 rue Saint-Michel",
+        "code": "35600",
+        "commune": "Redon",
+        "courriel": "gweletvo@gmail.com",
+        "lieu": "Tavarn Bala bala",
+        "organisme": "Gwelet' vo",
+        "tel": "07 68 13 56 28",
+        "site": "gweletvo.wordpress.com / www.facebook.com/gwelet.vo.71"
+      },
+      "id": "I3MzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.824873,
+          48.642579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "adresse": "-",
+        "code": "29252",
+        "commune": "Plouezoc'h",
+        "courriel": "-",
+        "lieu": "Salle de réunion de la salle des sports",
+        "organisme": "Foyer rural",
+        "site": "-",
+        "tel": "06 51 39 04 68"
+      },
+      "id": "Y4NDE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -4.487228,
+          48.014387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "adresse": "-",
+        "code": "29780",
+        "commune": "Plouhinec",
+        "courriel": "melestradurezh@mervent.bzh",
+        "lieu": "-",
+        "organisme": "Emglev Bro ar C'hab",
+        "tel": "06 74 64 78 69 / 02 98 87 72 41",
+        "site": "www.mervent.bzh"
+      },
+      "id": "g5NzY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -4.421369,
+          48.571606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "adresse": "4 route de Kerivès",
+        "code": "29260",
+        "commune": "KERNILIS",
+        "courriel": "florence.glorion@gmail.com",
+        "lieu": "-",
+        "organisme": "Florence Glorion",
+        "site": "http://florenceglorion.com",
+        "tel": "06 75 55 80 22"
+      },
+      "id": "E5Mzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.491592,
+          48.103075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "organisme": "Bod Kelenn",
+        "commune": "Langonnet",
+        "courriel": "developpement.bodkelenn@gmail.com",
+        "site": "https://www.facebook.com/BodKelnn",
+        "code": "56630"
+      },
+      "id": "fFsth"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -4.451738,
+          48.529793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "organisme": "Ti ar Vro Leon",
+        "code": "29860",
+        "commune": "Plouvien",
+        "courriel": "tiarvroleon@gmail.com",
+        "tel": "07 83 48 09 49",
+        "site": "tiarvroleon.bzh"
+      },
+      "id": "l1S7g"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.373047,
+          47.279462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "organisme": "Kentelioù an Noz",
+        "code": "44500",
+        "commune": "La Baule-Escoublac",
+        "tel": "02 40 20 39 74",
+        "courriel": "kenteliouannoz@gmail.com",
+        "site": "www.breton-nantes.bzh"
+      },
+      "id": "WCNDP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.076073,
+          47.316716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "organisme": "Kentelioù an Noz",
+        "code": "44480",
+        "commune": "Donges",
+        "lieu": "Maison des associations",
+        "courriel": "kenteliouannoz@gmail.com",
+        "tel": "02 40 20 39 74",
+        "site": "www.breton-nantes.bzh"
+      },
+      "id": "fvyLk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.154608,
+          47.327305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "organisme": "Kentelioù an Noz",
+        "code": "44550",
+        "commune": "Montoir-de-Bretagne",
+        "courriel": "kenteliouannoz@gmail.com",
+        "tel": "02 40 20 39 74",
+        "site": "www.breton-nantes.bzh"
+      },
+      "id": "OhGTj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.558514,
+          47.213855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "organisme": "Kentelioù an Noz",
+        "code": "44000",
+        "commune": "Nantes",
+        "lieu": "Café La Perle",
+        "adresse": "8 rue du Port au Vin",
+        "courriel": "kenteliouannoz@gmail.com",
+        "tel": "02 40 20 39 74",
+        "site": "www.breton-nantes.bzh"
+      },
+      "id": "jqScs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.573148,
+          47.210415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "site": "www.breton-nantes.bzh",
+        "courriel": "kenteliouannoz@gmail.com",
+        "tel": "02 40 20 39 74",
+        "organisme": "Kentelioù an Noz",
+        "lieu": "Ecole Leloup-Bouhier",
+        "adresse": "11 boulevard de Launay"
+      },
+      "id": "qvh74"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.59394,
+          47.247732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "organisme": "Kentelioù an Noz",
+        "code": "44700",
+        "commune": "Orvault",
+        "lieu": "Ferme du Bignon",
+        "adresse": "25 rue Alfred Nobel",
+        "courriel": "kenteliouannoz@gmail.com",
+        "tel": "02 40 20 39 74",
+        "site": "www.breton-nantes.bzh"
+      },
+      "id": "YpnxC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.340345,
+          47.263097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "site": "www.breton-nantes.bzh",
+        "courriel": "kenteliouannoz@gmail.com",
+        "tel": "02 40 20 39 74",
+        "organisme": "Kentelioù an Noz",
+        "code": "44380",
+        "commune": "Pornichet"
+      },
+      "id": "4qtvv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.161303,
+          47.230046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "organisme": "Kentelioù an Noz",
+        "code": "44250",
+        "commune": "Saint-Brévin",
+        "lieu": "Ecole Paul Fort",
+        "adresse": "38 chemin de la Nicolerie",
+        "courriel": "kenteliouannoz@gmail.com",
+        "tel": "02 40 20 39 74",
+        "site": "www.breton-nantes.bzh"
+      },
+      "id": "VxIB8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.217844,
+          47.285343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "site": "www.breton-nantes.bzh",
+        "courriel": "kenteliouannoz@gmail.com",
+        "tel": "02 40 20 39 74",
+        "organisme": "Kentelioù an Noz",
+        "code": "44600",
+        "commune": "Saint-Nazaire",
+        "lieu": "Ecole Léon Gambetta"
+      },
+      "id": "8vGNh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.202201,
+          47.300701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "commune": "Triniac",
+        "lieu": "Repar'Café",
+        "adresse": "8 bis rue Thérèse Eyquem",
+        "organisme": "Kentelioù an Noz",
+        "code": "44570",
+        "courriel": "kenteliouannoz@gmail.com",
+        "site": "www.breton-nantes.bzh",
+        "tel": "02 40 20 39 74"
+      },
+      "id": "0RpGn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.815002,
+          48.186976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "organisme": "Danserien ar C'hastell Nevez",
+        "code": "29520",
+        "commune": "Châteauneuf-du-Faou",
+        "courriel": "danserien29520@gmail.com",
+        "site": "https://www.facebook.com/people/Danserien-Ar-CHastell-Nevez/61550485997863/?_rdr"
+      },
+      "id": "bs3zz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.570179,
+          47.677077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "organisme": "Temps libre",
+        "code": "56250",
+        "commune": "Sulniac",
+        "lieu": "Maison des associations",
+        "adresse": "Rue des Écoles",
+        "courriel": "akerna35@gmail.com",
+        "tel": "06 18 44 16 07"
+      },
+      "id": "5d0kT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.397509,
+          47.931756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "courriel": "skoazell.ploermael@diwan.bzh",
+        "organisme": "Kuzul skoazell skol Diwan Ploermael",
+        "code": "56800",
+        "commune": "Ploërmel",
+        "tel": "06 59 31 38 63"
+      },
+      "id": "BiZG0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -4.211454,
+          48.61725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "organisme": "Spered Gwinevez",
+        "code": "29430",
+        "commune": "Plounévez-Lochrist",
+        "lieu": "Centre socio-culturel",
+        "courriel": "speredgwinevez@orange.fr",
+        "tel": "06 18 43 73 82"
+      },
+      "id": "py6jJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.889182,
+          47.994941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "organisme": "Div Yezh Eliant",
+        "code": "29370",
+        "commune": "Elliant",
+        "courriel": "melestradurezh@mervent.bzh",
+        "tel": "02 98 87 72 41",
+        "lieu": "Mervent"
+      },
+      "id": "KkX1s"
+    }
+  ]
+}

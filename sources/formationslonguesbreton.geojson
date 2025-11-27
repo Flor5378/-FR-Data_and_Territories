@@ -1,0 +1,827 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.321092,
+          48.576787
+        ]
+      },
+      "properties": {
+        "framm": "Kreizenn stummañ",
+        "structure": "Centre de formation",
+        "anv": "ROUDOUR",
+        "nom": "ROUDOUR",
+        "chomlech1": "Lise ar C'hleuzmeur",
+        "chomlech2": "5 straed ar Chaloni Kalvez",
+        "adresse1": "Lycée du Cleusmeur",
+        "adresse2": "5 rue du Chanoine Calvez",
+        "kod": 29260,
+        "code": 29260,
+        "kumun": "LESNEVEN",
+        "ville": "LESNEVEN",
+        "pgz": "02 98 99 75 81",
+        "tel": "02 98 99 75 81",
+        "postel": "degemer@roudour.bzh",
+        "courriel": "degemer@roudour.bzh",
+        "kenrouedad": "www.roudour.bzh",
+        "internet": "www.roudour.bzh",
+        "latitude": 48.576787,
+        "longitude": -4.321092,
+        "result_label": "5 Rue du Chanoine Calvez 29260 Lesneven",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "29124_0150_00005",
+        "result_housenumber": 5,
+        "result_name": "Rue du Chanoine Calvez",
+        "result_street": null,
+        "result_postcode": 29260,
+        "result_city": "Lesneven",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29124,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "gyMDY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.124756,
+          47.988488
+        ]
+      },
+      "properties": {
+        "framm": "Kreizenn stummañ",
+        "structure": "Centre de formation",
+        "anv": "KELENN",
+        "nom": "KELENN",
+        "chomlech1": "-",
+        "chomlech2": "3 straed Vañde",
+        "adresse1": "-",
+        "adresse2": "3 rue de la Vendée",
+        "kod": 29000,
+        "code": 29000,
+        "kumun": "KEMPER",
+        "ville": "QUIMPER",
+        "pgz": "02 98 95 55 99",
+        "tel": "02 98 95 55 99",
+        "postel": "kelenn@kelenn.bzh",
+        "courriel": "kelenn@kelenn.bzh",
+        "kenrouedad": "www.kelenn.bzh",
+        "internet": "www.kelenn.bzh",
+        "latitude": 47.988488,
+        "longitude": -4.124756,
+        "result_label": "3 Rue de la Vendee 29000 Quimper",
+        "result_score": 0.96,
+        "result_type": "housenumber",
+        "result_id": "29232_6913_00003",
+        "result_housenumber": "3",
+        "result_name": "Rue de la Vendee",
+        "result_street": null,
+        "result_postcode": 29000,
+        "result_city": "Quimper",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29232,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "g1OTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.091545,
+          47.972475
+        ]
+      },
+      "properties": {
+        "framm": "Kreizenn stummañ",
+        "structure": "Centre de formation",
+        "anv": "MERVENT",
+        "nom": "MERVENT",
+        "chomlech1": "Pol P.-J. Helias - SBI",
+        "chomlech2": "18 bali Aod ar Re Gaezh",
+        "adresse1": "Pôle J.-Helias - UBO",
+        "adresse2": "18 avenue de la Plage des Gueux ",
+        "kod": 29000,
+        "code": 29000,
+        "kumun": "KEMPER",
+        "ville": "QUIMPER",
+        "pgz": "02 98 87 72 41",
+        "tel": "02 98 87 72 41",
+        "postel": "mervent2@wanadoo.fr",
+        "courriel": "mervent2@wanadoo.fr",
+        "kenrouedad": "www.mervent.bzh",
+        "internet": "www.mervent.bzh",
+        "latitude": 47.972475,
+        "longitude": -4.091545,
+        "result_label": "18 Avenue de la Plage des Gueux 29000 Quimper",
+        "result_score": 0.96,
+        "result_type": "housenumber",
+        "result_id": "29232_5171_00018",
+        "result_housenumber": "18",
+        "result_name": "Avenue de la Plage des Gueux",
+        "result_street": null,
+        "result_postcode": 29000,
+        "result_city": "Quimper",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29232,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "E4NDE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.553194,
+          47.867856
+        ]
+      },
+      "properties": {
+        "framm": "Kreizenn stummañ",
+        "structure": "Centre de formation",
+        "anv": "MERVENT",
+        "nom": "MERVENT",
+        "chomlech1": "-",
+        "chomlech2": "12 straed Molan",
+        "adresse1": "-",
+        "adresse2": "12 rue de Moëlan",
+        "kod": 29300,
+        "code": 29300,
+        "kumun": "KEMPERLE",
+        "ville": "QUIMPERLE",
+        "pgz": "02 98 87 72 41",
+        "tel": "02 98 87 72 41",
+        "postel": "mervent2@wanadoo.fr",
+        "courriel": "mervent2@wanadoo.fr",
+        "kenrouedad": "www.mervent.bzh",
+        "internet": "www.mervent.bzh",
+        "latitude": 47.867856,
+        "longitude": -3.553194,
+        "result_label": "12 Rue de Moëlan 29300 Quimperlé",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "29233_1560_00012",
+        "result_housenumber": "12",
+        "result_name": "Rue de Moëlan",
+        "result_street": null,
+        "result_postcode": 29300,
+        "result_city": "Quimperlé",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29233,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "A3NzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.460935,
+          48.730094
+        ]
+      },
+      "properties": {
+        "framm": "Kreizenn stummañ",
+        "structure": "Centre de formation",
+        "anv": "ROUDOUR",
+        "nom": "ROUDOUR",
+        "chomlech1": "Kreizenn Santez Anna",
+        "chomlech2": "Straed Kerampont",
+        "adresse1": "Espace Sainte Anne",
+        "adresse2": "Rue de Kerampont",
+        "kod": 22300,
+        "code": 22300,
+        "kumun": "LANNUON",
+        "ville": "LANNION",
+        "pgz": "02 98 99 75 81",
+        "tel": "02 98 99 75 81",
+        "postel": "degemer@roudour.bzh",
+        "courriel": "degemer@roudour.bzh",
+        "kenrouedad": "www.roudour.bzh",
+        "internet": "www.roudour.bzh",
+        "latitude": 48.730094,
+        "longitude": -3.460935,
+        "result_label": "Rue de Kerampont 22300 Lannion",
+        "result_score": 0.95,
+        "result_type": "street",
+        "result_id": "22113_2030",
+        "result_housenumber": null,
+        "result_name": "Rue de Kerampont",
+        "result_street": null,
+        "result_postcode": 22300,
+        "result_city": "Lannion",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22113,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "ExOTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.12333,
+          47.978816
+        ]
+      },
+      "properties": {
+        "framm": "Kreizenn stummañ",
+        "structure": "Centre de formation",
+        "anv": "ROUDOUR",
+        "nom": "ROUDOUR",
+        "chomlech1": "-",
+        "chomlech2": "2 straed Milin Mêlwenn",
+        "adresse1": "-",
+        "adresse2": "2 rue du Moulin Melgven",
+        "kod": 29000,
+        "code": 29000,
+        "kumun": "KEMPER",
+        "ville": "QUIMPER",
+        "pgz": "02 98 99 75 81",
+        "tel": "02 98 99 75 81",
+        "postel": "degemer@roudour.bzh",
+        "courriel": "degemer@roudour.bzh",
+        "kenrouedad": "www.roudour.bzh",
+        "internet": "www.roudour.bzh",
+        "latitude": 47.978816,
+        "longitude": -4.12333,
+        "result_label": "2 Rue du Moulin de Melgven 29000 Quimper",
+        "result_score": 0.89,
+        "result_type": "housenumber",
+        "result_id": "29232_4539_00002",
+        "result_housenumber": "2",
+        "result_name": "Rue du Moulin de Melgven",
+        "result_street": null,
+        "result_postcode": 29000,
+        "result_city": "Quimper",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29232,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "I0Mzk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.574203,
+          48.277422
+        ]
+      },
+      "properties": {
+        "structure": "Centre de formation",
+        "nom": "ROUDOUR",
+        "adresse1": "Ti ar Vro",
+        "adresse2": "6 place des Droits de l'Homme",
+        "code": 29270,
+        "ville": "CARHAIX-PLOUGER",
+        "tel": "02 98 99 75 81",
+        "courriel": "degemer@roudour.bzh",
+        "internet": "www.roudour.bzh",
+        "latitude": 48.277422,
+        "longitude": -3.574203,
+        "result_label": "6 Place des Droits de l'Homme 29270 Carhaix-Plouguer",
+        "result_score": 0.9,
+        "result_type": "housenumber",
+        "result_id": "29024_0340_00006",
+        "result_housenumber": "6",
+        "result_name": "Place des Droits de l'Homme",
+        "result_street": null,
+        "result_postcode": 29270,
+        "result_city": "Carhaix-Plouguer",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29024,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "A4Mjg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.811284,
+          48.590904
+        ]
+      },
+      "properties": {
+        "framm": "Kreizenn stummañ",
+        "structure": "Centre de formation",
+        "anv": "ROUDOUR",
+        "nom": "ROUDOUR",
+        "chomlech1": "SMT",
+        "chomlech2": "Straed Roc'h glas",
+        "adresse1": "MFR ",
+        "adresse2": "Rue Roc'h Glas",
+        "kod": 29600,
+        "code": 29600,
+        "kumun": "MONTROULEZ",
+        "ville": "MORLAIX",
+        "pgz": "02 98 99 75 81",
+        "tel": "02 98 99 75 81",
+        "postel": "degemer@roudour.bzh",
+        "courriel": "degemer@roudour.bzh",
+        "kenrouedad": "www.roudour.bzh",
+        "internet": "www.roudour.bzh",
+        "latitude": 48.590904,
+        "longitude": -3.811284,
+        "result_label": "Rue de Roc H Glas 29600 Morlaix",
+        "result_score": 0.86,
+        "result_type": "street",
+        "result_id": "29151_2801",
+        "result_housenumber": null,
+        "result_name": "Rue de Roc H Glas",
+        "result_street": null,
+        "result_postcode": 29600,
+        "result_city": "Morlaix",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29151,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "A5OTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.271402,
+          47.801089
+        ]
+      },
+      "properties": {
+        "framm": "Kreizenn stummañ",
+        "structure": "Centre de formation",
+        "anv": "ROUDOUR",
+        "nom": "ROUDOUR",
+        "chomlech1": "Ti-karter Kerioue",
+        "chomlech2": "Straed Kerorben",
+        "adresse1": "Maison de quartier de Kerihouais",
+        "adresse2": "Rue Kerorben",
+        "kod": 56700,
+        "code": 56700,
+        "kumun": "HENBONT",
+        "ville": "HENNEBONT",
+        "pgz": "02 98 99 75 81",
+        "tel": "02 98 99 75 81",
+        "postel": "degemer@roudour.bzh",
+        "courriel": "degemer@roudour.bzh",
+        "kenrouedad": "www.roudour.bzh",
+        "internet": "www.roudour.bzh",
+        "latitude": 47.801089,
+        "longitude": -3.271402,
+        "result_label": "Rue de Kerorben 56700 Hennebont",
+        "result_score": 0.86,
+        "result_type": "street",
+        "result_id": "56083_0793",
+        "result_housenumber": null,
+        "result_name": "Rue de Kerorben",
+        "result_street": null,
+        "result_postcode": 56700,
+        "result_city": "Hennebont",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56083,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "gzMDI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.679818,
+          48.11536
+        ]
+      },
+      "properties": {
+        "framm": "Kreizenn stummañ",
+        "structure": "Centre de formation",
+        "anv": "SKOL AN EMSAV",
+        "nom": "SKOL AN EMSAV",
+        "chomlech1": "-",
+        "chomlech2": "8 trolec'h Sant-Albin",
+        "adresse1": "-",
+        "adresse2": "8 contour Saint-Aubin",
+        "kod": 35000,
+        "code": 35000,
+        "kumun": "ROAZHON ",
+        "ville": "RENNES",
+        "pgz": "02 99 38 75 83",
+        "tel": "02 99 38 75 83",
+        "postel": "degemer@skolanemsav.bzh",
+        "courriel": "degemer@skolanemsav.bzh",
+        "kenrouedad": "www.skolanemsav.bzh",
+        "internet": "www.skolanemsav.bzh",
+        "latitude": 48.11536,
+        "longitude": -1.679818,
+        "result_label": "8 Contour Saint-aubin 35000 Rennes",
+        "result_score": 0.96,
+        "result_type": "housenumber",
+        "result_id": "35238_e1sklg_00008",
+        "result_housenumber": "8",
+        "result_name": "Contour Saint-aubin",
+        "result_street": null,
+        "result_postcode": 35000,
+        "result_city": "Rennes",
+        "result_context": "35, Ille-et-Vilaine, Bretagne",
+        "result_citycode": 35238,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "IzNjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.612705,
+          47.245186
+        ]
+      },
+      "properties": {
+        "framm": "Kreizenn stummañ",
+        "structure": "Centre de formation",
+        "anv": "SKOL AN EMSAV",
+        "nom": "SKOL AN EMSAV",
+        "chomlech1": "Kreizenn Yezhoù ha Sevenadur",
+        "chomlech2": "12 bali an Añjevinier",
+        "adresse1": "Centre Yezhoù ha Sevenadur",
+        "adresse2": "12 avenue de l'Angevinière",
+        "kod": 44800,
+        "code": 44800,
+        "kumun": "SANT-ERVLAN",
+        "ville": "SAINT-HERBLAIN",
+        "pgz": "02 99 38 75 83",
+        "tel": "02 99 38 75 83",
+        "postel": "degemer@skolanemsav.bzh",
+        "courriel": "degemer@skolanemsav.bzh",
+        "kenrouedad": "www.skolanemsav.bzh",
+        "internet": "www.skolanemsav.bzh",
+        "latitude": 47.245186,
+        "longitude": -1.612705,
+        "result_label": "12 Avenue de l'Angevinière 44800 Saint-Herblain",
+        "result_score": 0.96,
+        "result_type": "housenumber",
+        "result_id": "44162_0071_00012",
+        "result_housenumber": "12",
+        "result_name": "Avenue de l'Angevinière",
+        "result_street": null,
+        "result_postcode": 44800,
+        "result_city": "Saint-Herblain",
+        "result_context": "44, Loire-Atlantique, Pays de la Loire",
+        "result_citycode": 44162,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "Q5MzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.148743,
+          48.561792
+        ]
+      },
+      "properties": {
+        "framm": "Kreizenn stummañ",
+        "structure": "Centre de formation",
+        "anv": "STUMDI",
+        "nom": "STUMDI",
+        "chomlech1": "Ti ar Vro Gwengamp",
+        "chomlech2": "3 plasenn Maez ar Roue",
+        "adresse1": "Ti ar Vro Gwengamp",
+        "adresse2": "3 place du Champ au Roy",
+        "kod": 22200,
+        "code": 22200,
+        "kumun": "GWENGAMP",
+        "ville": "GUINGAMP",
+        "pgz": "02 98 21 39 94",
+        "tel": "02 98 21 39 94",
+        "postel": "contact@stumdi.bzh",
+        "courriel": "contact@stumdi.bzh",
+        "kenrouedad": "http://www.stumdi.bzh/",
+        "internet": "http://www.stumdi.bzh/",
+        "latitude": 48.561792,
+        "longitude": -3.148743,
+        "result_label": "3 Place du Champ au Roy 22200 Guingamp",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "22070_0150_00003",
+        "result_housenumber": "3",
+        "result_name": "Place du Champ au Roy",
+        "result_street": null,
+        "result_postcode": 22200,
+        "result_city": "Guingamp",
+        "result_context": "22, Côtes-d'Armor, Bretagne",
+        "result_citycode": 22070,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "g4NjE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.487565,
+          48.392675
+        ]
+      },
+      "properties": {
+        "framm": "Kreizenn stummañ",
+        "structure": "Centre de formation",
+        "anv": "STUMDI",
+        "nom": "STUMDI",
+        "kod": "29238",
+        "code": "29238",
+        "kumun": "BREST",
+        "ville": "BREST",
+        "pgz": "02 98 21 39 94",
+        "tel": "02 98 21 39 94",
+        "postel": "contact@stumdi.bzh",
+        "courriel": "contact@stumdi.bzh",
+        "kenrouedad": "http://www.stumdi.bzh/",
+        "internet": "http://www.stumdi.bzh/",
+        "latitude": 48.392675,
+        "longitude": -4.487565,
+        "result_label": "2 Avenue Maréchal Foch 29200 Brest",
+        "result_score": 0.71,
+        "result_type": "housenumber",
+        "result_id": "29019_3600_00002",
+        "result_housenumber": "2",
+        "result_name": "Avenue Maréchal Foch",
+        "result_street": null,
+        "result_postcode": 29200,
+        "result_city": "Brest",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29019,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null,
+        "chomlech1": "Brest Business School",
+        "chomlech2": "2 bali Provence",
+        "adresse1": "Brest Business School",
+        "adresse2": "2 bali Provence"
+      },
+      "id": "IxODA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.245811,
+          48.450245
+        ]
+      },
+      "properties": {
+        "framm": "Kreizenn stummañ",
+        "structure": "Centre de formation",
+        "anv": "STUMDI",
+        "nom": "STUMDI",
+        "chomlech1": "Kreizenn Théo Le Borgne",
+        "chomlech2": "1 straed Pouliquen",
+        "adresse1": "Centre Théo Le Borgne",
+        "adresse2": "1 rue Pouliquen",
+        "kod": 29800,
+        "code": 29800,
+        "kumun": "LANDERNE",
+        "ville": "LANDERNEAU",
+        "pgz": "02 98 21 39 94",
+        "tel": "02 98 21 39 94",
+        "postel": "contact@stumdi.bzh",
+        "courriel": "contact@stumdi.bzh",
+        "kenrouedad": "http://www.stumdi.bzh/",
+        "internet": "http://www.stumdi.bzh/",
+        "latitude": 48.450245,
+        "longitude": -4.245811,
+        "result_label": "1 Rue du Docteur Pouliquen 29800 Landerneau",
+        "result_score": 0.71,
+        "result_type": "housenumber",
+        "result_id": "29103_0470_00001",
+        "result_housenumber": "1",
+        "result_name": "Rue du Docteur Pouliquen",
+        "result_street": null,
+        "result_postcode": 29800,
+        "result_city": "Landerneau",
+        "result_context": "29, Finistère, Bretagne",
+        "result_citycode": 29103,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "c1ODU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.761858,
+          47.657763
+        ]
+      },
+      "properties": {
+        "framm": "Kreizenn stummañ",
+        "structure": "Centre de formation",
+        "anv": "STUMDI",
+        "nom": "STUMDI",
+        "chomlech1": "Emglev Bro Gwened",
+        "chomlech2": "3 straed al Lezenn",
+        "adresse1": "Emglev Bro Gwened",
+        "adresse2": "3 rue de la Loi",
+        "kod": 56000,
+        "code": 56000,
+        "kumun": "GWENED",
+        "ville": "VANNES",
+        "pgz": "02 98 21 39 94",
+        "tel": "02 98 21 39 94",
+        "postel": "contact@stumdi.bzh",
+        "courriel": "contact@stumdi.bzh",
+        "kenrouedad": "http://www.stumdi.bzh/",
+        "internet": "http://www.stumdi.bzh/",
+        "latitude": 47.657763,
+        "longitude": -2.761858,
+        "result_label": "3 Rue de la Loi 56000 Vannes",
+        "result_score": 0.96,
+        "result_type": "housenumber",
+        "result_id": "56260_2200_00003",
+        "result_housenumber": "3",
+        "result_name": "Rue de la Loi",
+        "result_street": null,
+        "result_postcode": 56000,
+        "result_city": "Vannes",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56260,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "czMzA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.409781,
+          47.739947
+        ]
+      },
+      "properties": {
+        "framm": "Kreizenn stummañ",
+        "structure": "Centre de formation",
+        "anv": "STUMDI",
+        "nom": "STUMDI",
+        "chomlech1": "Soe",
+        "chomlech2": "2 minodenn ar Skol Sonerezh",
+        "adresse1": "Soye",
+        "adresse2": "2 chemlin du Conservatoire",
+        "kod": 56270,
+        "code": 56270,
+        "kumun": "PLAÑVOUR",
+        "ville": "PLOEMEUR",
+        "pgz": "02 98 21 39 94",
+        "tel": "02 98 21 39 94",
+        "postel": "contact@stumdi.bzh",
+        "courriel": "contact@stumdi.bzh",
+        "kenrouedad": "http://www.stumdi.bzh/",
+        "internet": "http://www.stumdi.bzh/",
+        "latitude": 47.739947,
+        "longitude": -3.409781,
+        "result_label": "2 Chemin du Conservatoire 56270 Ploemeur",
+        "result_score": 0.89,
+        "result_type": "housenumber",
+        "result_id": "56162_2556_00002",
+        "result_housenumber": "2",
+        "result_name": "Chemin du Conservatoire",
+        "result_street": null,
+        "result_postcode": 56270,
+        "result_city": "Ploemeur",
+        "result_context": "56, Morbihan, Bretagne",
+        "result_citycode": 56162,
+        "result_oldcitycode": null,
+        "result_oldcity": null,
+        "result_district": null
+      },
+      "id": "M1MzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.971472,
+          48.226102
+        ]
+      },
+      "properties": {
+        "structure": "Roudour",
+        "nom": "Roudour",
+        "courriel": "degemer@roudour.bzh",
+        "internet": "www.roudour.bzh",
+        "code": "29190 ",
+        "ville": "PLEYBEN",
+        "tel": "02 98 99 75 81"
+      },
+      "id": "Q1MjE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.04071,
+          48.472011
+        ]
+      },
+      "properties": {
+        "structure": "Centre de formation",
+        "nom": "SKOL AN EMSAV",
+        "code": "22100",
+        "ville": "DINAN",
+        "internet": "www.skolanemsav.bzh",
+        "courriel": "degemer@skolanemsav.bzh",
+        "tel": "02 99 38 75 83"
+      },
+      "id": "cyODE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -4.335823,
+          48.09505
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "code": "29100",
+        "nom": "Roudour",
+        "courriel": "degemer@roudour.bzh",
+        "internet": "www.roudour.bzh",
+        "tel": "02 98 99 75 81",
+        "ville": "DOUARNENEZ"
+      },
+      "id": "g4ODg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.963562,
+          48.058807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "adresse1": "Projet d'ouverture",
+        "code": "56300",
+        "courriel": "degemer@roudour.bzh",
+        "internet": "www.roudour.bzh",
+        "nom": "Roudour",
+        "tel": "02 98 99 75 81",
+        "ville": "PONTIVY"
+      },
+      "id": "IxOTY"
+    }
+  ]
+}
