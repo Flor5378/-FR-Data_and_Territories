@@ -53,7 +53,9 @@ The script produces a map showing:
 | Summer language courses | 🟧 Orange |
 
 The resulting map provides a **clear overview of the linguistic infrastructure** in Brittany and Nouvelle-Aquitaine.
+### **4. An Example of the produced plot:
 
+![Evolution Effectifs des apprenants du Basque vs Breton](figures/evolutionbasquevsbreton.png)
 ---
 
 ## 📊 Summary of the Poster (PDF)
