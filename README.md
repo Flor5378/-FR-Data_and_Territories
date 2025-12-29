@@ -1,9 +1,9 @@
-# 🇫🇷 FR – Data & Territories  
+# FR – Data & Territories  
 ### Analysis of Regional Languages in Brittany and Nouvelle-Aquitaine
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 **FR-Data_and_Territories** is a data-driven project focused on the study of **regional languages in France**, with a particular focus on:
 
@@ -21,7 +21,7 @@ It combines sociolinguistic data, regional datasets, geospatial analysis, and Py
 
 ---
 
-## 🗺️ Summary of the GeoPandas / Matplotlib Script
+## Summary of the GeoPandas / Matplotlib Script
 
 The Python script performs the following tasks:
 
@@ -58,40 +58,40 @@ The resulting map provides a **clear overview of the linguistic infrastructure**
 ![Evolution Effectifs des apprenants du Basque vs Breton](figures/evolutionbasquevsbreton.png)
 ---
 
-## 📊 Summary of the Poster (PDF)
+## Summary of the Poster (PDF)
 
 The poster *Data Challenge 2025 – Group 8 “Les Datarés”* presents a comparative analysis of regional languages in both territories.
 
-### 🔎 General Findings
+### General Findings
 - Both regions increasingly develop cultural and educational policies to support regional languages.  
 - Although the number of speakers is declining, political involvement is growing.  
 - French remains dominant due to France’s centralized structure.
 
-### 📚 Education
+### Education
 - **Brittany**: 11% bilingual schools in Breton, 1% in Gallo.  
 - **Nouvelle-Aquitaine**: 2.3% bilingual schools in Occitan, 66% in the Basque Country.  
 - Brittany stands out thanks to its strong and long-standing educational policy.
 
-### 💶 Public Funding (2023)
+### Public Funding (2023)
 - Breton Language Office: **€3,054,000**  
 - Occitan: **€1,307,000**  
 - Basque: **€1,170,000**  
 
 → Brittany receives significantly higher funding than Nouvelle-Aquitaine.
 
-### 👥 Linguistic Demographics
+### Linguistic Demographics
 - Basque: **20.1%** of speakers (2024)  
 - Breton + Gallo: **6%**  
 - Occitan: low number of speakers, limited academic support
 
-### 📌 Conclusion
+###  Conclusion
 - **Brittany** → highly proactive in revitalizing its language  
 - **Nouvelle-Aquitaine** → rich linguistic diversity but less homogeneous support  
 - Education appears to be the key mechanism for long-term language preservation.
 
 ---
 
-## 📁 Datasets Used
+## Datasets Used
 
 - Sociolinguistic surveys (OPLO, Mintzaira, TMO, LangueBretonne.fr)  
 - Regional datasets on bilingual education  
@@ -100,7 +100,7 @@ The poster *Data Challenge 2025 – Group 8 “Les Datarés”* presents a compa
 
 ---
 
-## 👥 Project Team
+## Project Team
 
 Group 8 *“Les Datarés”*  
 Alice Ausset, Charles Bensancon, Anthony Fourches, Florian Grolleau,  
